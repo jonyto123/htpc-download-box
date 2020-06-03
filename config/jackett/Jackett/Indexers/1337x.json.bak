@@ -1,0 +1,53 @@
+[
+  {
+    "id": "sitelink",
+    "type": "inputstring",
+    "name": "Site Link",
+    "value": "https://1337x.to/"
+  },
+  {
+    "id": "cookieheader",
+    "type": "hiddendata",
+    "name": "CookieHeader",
+    "value": "__cfduid=daf5ab8ef23412c61e651de8a3c5d45bb1591187073; __cf_bm=8a47b56e7f52329b3ca5a55c13933656743a9221-1591187074-1800-AW/fHxhXt+yn22MIW//Sg5PijoTu3V1nImHDvoZUL8Gdj4sew02L+n1cSdzq3ITuQkZ0V71avr+MPKIRu2LHK8s="
+  },
+  {
+    "id": "lasterror",
+    "type": "hiddendata",
+    "name": "LastError",
+    "value": ""
+  },
+  {
+    "id": "downloadlink",
+    "type": "inputselect",
+    "name": "Download link",
+    "value": "magnet:",
+    "options": {
+      "http://itorrents.org/": "iTorrents.org",
+      "http://torrage.info/": "Torrage.info",
+      "http://btcache.me/": "BTcache.me",
+      "magnet:": "magnet"
+    }
+  },
+  {
+    "id": "sortrequestedfromsite",
+    "type": "inputselect",
+    "name": "Sort requested from site",
+    "value": "time",
+    "options": {
+      "time": "created",
+      "seeders": "seeders",
+      "size": "size"
+    }
+  },
+  {
+    "id": "orderrequestedfromsite",
+    "type": "inputselect",
+    "name": "Order requested from site",
+    "value": "desc",
+    "options": {
+      "desc": "desc",
+      "asc": "asc"
+    }
+  }
+]
