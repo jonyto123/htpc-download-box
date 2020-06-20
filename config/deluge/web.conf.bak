@@ -17,7 +17,7 @@
     "session_timeout": 3600,
     "sessions": {
         "5f181e871ad099c857333faffa765585274cc99028ce4d14e60444230c276400": {
-            "expires": 1592682644.0,
+            "expires": 1592682732.0,
             "level": 10,
             "login": "admin"
         }
