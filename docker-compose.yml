@@ -1,4 +1,4 @@
-version: "3.4"
+version: "3.8"
 services:
   vpn:
     image: dperson/openvpn-client:latest
@@ -80,8 +80,8 @@ services:
     labels:
       - "traefik.enable=true"
       - "traefik.http.routers.sonarr.entrypoints=web"
-      - "traefik.http.routers.sonarr.rule=Host(`radarr.localhost`)"
-      - "traefik.http.routers.sonarr.service=radarr"
+      - "traefik.http.routers.sonarr.rule=Host(`sonarr.localhost`)"
+      - "traefik.http.routers.sonarr.service=sonarr"
       - "traefik.http.services.sonarr.loadbalancer.server.port=8989"
 
   radarr:
@@ -112,6 +112,15 @@ services:
       - ./config/plex/db:/config # plex database
       - ./config/plex/transcode:/transcode # temp transcoded files
       - ./complete:/data # media library
+    ports:
+      - '32400:32400'
+      - '3005:3005'
+      - '8324:8324'
+      - '1900:1900/udp'
+      - '32410:32410/udp'
+      - '32412:32412/udp'
+      - '32413:32413/udp'
+      - '32414:32414/udp'
     labels:
       - "traefik.enable=true"
       - "traefik.http.routers.plex.entrypoints=web"

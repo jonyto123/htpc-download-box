@@ -602,3 +602,96 @@
 2020-6-3 13:13:02.9|Info|NancyBootstrapper|Starting Web Server
 2020-6-3 13:13:03.7|Info|ProfileService|Setting up default quality profiles
 2020-6-3 13:13:03.8|Info|CommandExecutor|Starting 2 threads for tasks.
+2020-6-12 17:00:12.6|Info|Bootstrap|Starting Radarr - /app/radarr/bin/Radarr.exe - Version 0.2.0.1480
+2020-6-12 17:00:15.0|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2020-6-12 17:00:15.4|Info|Router|Application mode: Interactive
+2020-6-12 17:00:16.8|Info|MigrationLogger|*** Migrating data source=/config/nzbdrone.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2020-6-12 17:00:17.4|Info|MigrationLogger|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2020-6-12 17:00:17.8|Info|OwinHostController|Listening on the following URLs:
+2020-6-12 17:00:17.9|Info|OwinHostController|  http://*:7878/
+2020-6-12 17:00:18.3|Info|NancyBootstrapper|Starting Web Server
+2020-6-12 17:00:21.7|Info|CommandExecutor|Starting 2 threads for tasks.
+2020-6-12 17:00:53.3|Info|PreDBService|Starting PreDB Sync
+2020-6-12 17:00:54.2|Info|HousekeepingService|Running housecleaning tasks
+2020-6-12 17:00:54.5|Info|BackupService|Starting Backup
+2020-6-12 17:00:54.6|Info|RssSyncService|Starting RSS Sync
+2020-6-12 17:00:54.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2020-6-12 17:00:54.8|Info|DownloadDecisionMaker|No results found
+2020-6-12 17:00:54.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2020-6-12 17:00:54.9|Info|Database|Vacuuming Log database
+2020-6-12 17:00:55.2|Info|NetImportSearchService|No lists are enabled for auto-import.
+2020-6-12 17:00:55.2|Info|Database|Log database compressed
+2020-6-12 17:00:55.4|Info|Database|Vacuuming Main database
+2020-6-12 17:00:55.8|Info|Database|Main database compressed
+2020-6-20 18:51:08.4|Info|Bootstrap|Starting Radarr - /app/radarr/bin/Radarr.exe - Version 0.2.0.1480
+2020-6-20 18:51:12.4|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2020-6-20 18:51:13.3|Info|Router|Application mode: Interactive
+2020-6-20 18:51:14.0|Info|MigrationLogger|*** Migrating data source=/config/nzbdrone.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2020-6-20 18:51:15.3|Info|MigrationLogger|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2020-6-20 18:51:18.0|Info|OwinHostController|Listening on the following URLs:
+2020-6-20 18:51:18.2|Info|OwinHostController|  http://*:7878/
+2020-6-20 18:51:19.1|Info|NancyBootstrapper|Starting Web Server
+2020-6-20 18:51:26.0|Info|CommandExecutor|Starting 2 threads for tasks.
+2020-6-20 18:52:02.8|Info|Bootstrap|Starting Radarr - /app/radarr/bin/Radarr.exe - Version 0.2.0.1480
+2020-6-20 18:52:07.1|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2020-6-20 18:52:08.7|Info|Router|Application mode: Interactive
+2020-6-20 18:52:09.6|Info|MigrationLogger|*** Migrating data source=/config/nzbdrone.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2020-6-20 18:52:10.9|Info|MigrationLogger|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2020-6-20 18:52:11.7|Info|OwinHostController|Listening on the following URLs:
+2020-6-20 18:52:11.8|Info|OwinHostController|  http://*:7878/
+2020-6-20 18:52:12.7|Info|NancyBootstrapper|Starting Web Server
+2020-6-20 18:52:17.4|Info|CommandExecutor|Starting 2 threads for tasks.
+2020-6-20 18:52:59.8|Info|Bootstrap|Starting Radarr - /app/radarr/bin/Radarr.exe - Version 0.2.0.1480
+2020-6-20 18:53:05.0|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2020-6-20 18:53:06.1|Info|Router|Application mode: Interactive
+2020-6-20 18:53:07.0|Info|MigrationLogger|*** Migrating data source=/config/nzbdrone.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2020-6-20 18:53:08.2|Info|MigrationLogger|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2020-6-20 18:53:08.8|Info|OwinHostController|Listening on the following URLs:
+2020-6-20 18:53:08.9|Info|OwinHostController|  http://*:7878/
+2020-6-20 18:53:09.4|Info|NancyBootstrapper|Starting Web Server
+2020-6-20 18:53:14.8|Info|CommandExecutor|Starting 2 threads for tasks.
+2020-6-20 18:53:45.4|Info|PreDBService|Starting PreDB Sync
+2020-6-20 18:53:46.1|Info|HousekeepingService|Running housecleaning tasks
+2020-6-20 18:53:46.3|Info|RssSyncService|Starting RSS Sync
+2020-6-20 18:53:46.3|Info|BackupService|Starting Backup
+2020-6-20 18:53:46.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2020-6-20 18:53:46.5|Info|DownloadDecisionMaker|No results found
+2020-6-20 18:53:46.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2020-6-20 18:53:46.9|Info|Database|Vacuuming Log database
+2020-6-20 18:53:47.1|Info|Database|Log database compressed
+2020-6-20 18:53:47.1|Info|NetImportSearchService|No lists are enabled for auto-import.
+2020-6-20 18:53:47.1|Info|Database|Vacuuming Main database
+2020-6-20 18:53:47.4|Info|Database|Main database compressed
+2020-6-20 19:53:49.8|Info|PreDBService|Starting PreDB Sync
+2020-6-20 19:53:50.2|Info|NetImportSearchService|No lists are enabled for auto-import.
+2020-6-20 19:53:50.4|Info|RssSyncService|Starting RSS Sync
+2020-6-20 19:53:50.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2020-6-20 19:53:50.6|Info|DownloadDecisionMaker|No results found
+2020-6-20 19:53:50.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2020-6-20 20:53:54.4|Info|RssSyncService|Starting RSS Sync
+2020-6-20 20:53:54.6|Info|PreDBService|Starting PreDB Sync
+2020-6-20 20:53:54.6|Info|NetImportSearchService|No lists are enabled for auto-import.
+2020-6-20 20:53:54.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2020-6-20 20:53:54.8|Info|DownloadDecisionMaker|No results found
+2020-6-20 20:53:54.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2020-6-20 21:15:34.7|Warn|StaticResourceMapper|File /app/radarr/bin/UI/Content/Images/favicon/manifest not found
+2020-6-20 21:16:41.5|Warn|StaticResourceMapper|File /app/radarr/bin/UI/Content/Images/favicon/manifest not found
+2020-6-20 21:17:42.4|Warn|StaticResourceMapper|File /app/radarr/bin/UI/Content/Images/favicon/manifest not found
+2020-6-20 21:35:25.1|Info|Bootstrap|Starting Radarr - /app/radarr/bin/Radarr.exe - Version 0.2.0.1480
+2020-6-20 21:35:28.6|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2020-6-20 21:35:29.1|Info|Router|Application mode: Interactive
+2020-6-20 21:35:29.9|Info|MigrationLogger|*** Migrating data source=/config/nzbdrone.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2020-6-20 21:35:33.0|Info|MigrationLogger|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2020-6-20 21:35:33.7|Info|OwinHostController|Listening on the following URLs:
+2020-6-20 21:35:33.8|Info|OwinHostController|  http://*:7878/
+2020-6-20 21:35:34.3|Info|NancyBootstrapper|Starting Web Server
+2020-6-20 21:35:38.3|Info|CommandExecutor|Starting 2 threads for tasks.
+2020-6-20 21:40:47.2|Info|Bootstrap|Starting Radarr - /app/radarr/bin/Radarr.exe - Version 0.2.0.1480
+2020-6-20 21:40:50.0|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2020-6-20 21:40:51.3|Info|Router|Application mode: Interactive
+2020-6-20 21:40:52.8|Info|MigrationLogger|*** Migrating data source=/config/nzbdrone.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2020-6-20 21:40:54.1|Info|MigrationLogger|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2020-6-20 21:40:55.0|Info|OwinHostController|Listening on the following URLs:
+2020-6-20 21:40:55.1|Info|OwinHostController|  http://*:7878/
+2020-6-20 21:40:55.8|Info|NancyBootstrapper|Starting Web Server
+2020-6-20 21:41:00.3|Info|CommandExecutor|Starting 2 threads for tasks.

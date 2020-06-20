@@ -485,3 +485,1320 @@
 20-6-3 13:13:01.4|Info|OwinHostController|  http://*:8989/
 20-6-3 13:13:01.5|Info|NancyBootstrapper|Starting Web Server
 20-6-3 13:13:02.2|Info|ProfileService|Setting up default quality profiles
+20-6-12 17:00:10.5|Info|Bootstrap|Starting Sonarr - /app/sonarr/bin/NzbDrone.exe - Version 2.0.0.5344
+20-6-12 17:00:13.3|Info|AppFolderInfo|Data directory is being overridden to [/config]
+20-6-12 17:00:13.8|Info|Router|Application mode: Interactive
+20-6-12 17:00:14.6|Info|MigrationLogger|*** Migrating data source=/config/nzbdrone.db;cache size=-10000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+20-6-12 17:00:15.3|Info|MigrationLogger|*** Migrating data source=/config/logs.db;cache size=-10000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+20-6-12 17:00:15.6|Info|OwinHostController|Listening on the following URLs:
+20-6-12 17:00:15.6|Info|OwinHostController|  http://*:8989/
+20-6-12 17:00:16.8|Info|NancyBootstrapper|Starting Web Server
+20-6-12 17:00:49.5|Info|SceneMappingService|Updating Scene mappings
+20-6-12 17:00:49.8|Info|HousekeepingService|Running housecleaning tasks
+20-6-12 17:00:49.8|Info|BackupService|Starting Backup
+20-6-12 17:00:50.2|Info|Database|Vacuuming Log database
+20-6-12 17:00:50.4|Info|Database|Log database compressed
+20-6-12 17:00:50.4|Info|Database|Vacuuming Main database
+20-6-12 17:00:50.8|Info|Database|Main database compressed
+20-6-12 17:00:52.1|Info|RssSyncService|Starting RSS Sync
+20-6-12 17:00:52.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+20-6-12 17:00:53.4|Info|DownloadDecisionMaker|No results found
+20-6-12 17:00:53.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+20-6-20 18:51:07.5|Info|Bootstrap|Starting Sonarr - /app/sonarr/bin/NzbDrone.exe - Version 2.0.0.5344
+20-6-20 18:51:11.5|Info|AppFolderInfo|Data directory is being overridden to [/config]
+20-6-20 18:51:12.5|Info|Router|Application mode: Interactive
+20-6-20 18:51:13.4|Info|MigrationLogger|*** Migrating data source=/config/nzbdrone.db;cache size=-10000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+20-6-20 18:51:15.2|Info|MigrationLogger|*** Migrating data source=/config/logs.db;cache size=-10000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+20-6-20 18:51:18.7|Info|OwinHostController|Listening on the following URLs:
+20-6-20 18:51:18.8|Info|OwinHostController|  http://*:8989/
+20-6-20 18:51:19.7|Info|NancyBootstrapper|Starting Web Server
+20-6-20 18:51:57.8|Info|Bootstrap|Starting Sonarr - /app/sonarr/bin/NzbDrone.exe - Version 2.0.0.5344
+20-6-20 18:52:02.0|Info|AppFolderInfo|Data directory is being overridden to [/config]
+20-6-20 18:52:02.8|Info|Router|Application mode: Interactive
+20-6-20 18:52:03.9|Info|MigrationLogger|*** Migrating data source=/config/nzbdrone.db;cache size=-10000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+20-6-20 18:52:05.4|Info|MigrationLogger|*** Migrating data source=/config/logs.db;cache size=-10000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+20-6-20 18:52:06.5|Info|OwinHostController|Listening on the following URLs:
+20-6-20 18:52:06.5|Info|OwinHostController|  http://*:8989/
+20-6-20 18:52:07.3|Info|NancyBootstrapper|Starting Web Server
+20-6-20 18:52:55.7|Info|Bootstrap|Starting Sonarr - /app/sonarr/bin/NzbDrone.exe - Version 2.0.0.5344
+20-6-20 18:53:00.1|Info|AppFolderInfo|Data directory is being overridden to [/config]
+20-6-20 18:53:01.4|Info|Router|Application mode: Interactive
+20-6-20 18:53:02.4|Info|MigrationLogger|*** Migrating data source=/config/nzbdrone.db;cache size=-10000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+20-6-20 18:53:05.8|Info|MigrationLogger|*** Migrating data source=/config/logs.db;cache size=-10000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+20-6-20 18:53:07.6|Info|OwinHostController|Listening on the following URLs:
+20-6-20 18:53:07.7|Info|OwinHostController|  http://*:8989/
+20-6-20 18:53:08.3|Info|NancyBootstrapper|Starting Web Server
+20-6-20 18:53:44.3|Info|SceneMappingService|Updating Scene mappings
+20-6-20 18:53:44.6|Info|BackupService|Starting Backup
+20-6-20 18:53:44.7|Info|HousekeepingService|Running housecleaning tasks
+20-6-20 18:53:44.9|Info|Database|Vacuuming Log database
+20-6-20 18:53:44.9|Info|Database|Log database compressed
+20-6-20 18:53:45.1|Info|Database|Vacuuming Main database
+20-6-20 18:53:45.8|Info|Database|Main database compressed
+20-6-20 18:53:47.2|Info|RssSyncService|Starting RSS Sync
+20-6-20 18:53:47.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+20-6-20 18:53:47.3|Info|DownloadDecisionMaker|No results found
+20-6-20 18:53:47.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+20-6-20 19:09:15.7|Info|RssSyncService|Starting RSS Sync
+20-6-20 19:09:15.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+20-6-20 19:09:15.9|Info|DownloadDecisionMaker|No results found
+20-6-20 19:09:15.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+20-6-20 19:24:16.5|Info|RssSyncService|Starting RSS Sync
+20-6-20 19:24:16.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+20-6-20 19:24:16.6|Info|DownloadDecisionMaker|No results found
+20-6-20 19:24:16.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+20-6-20 19:39:18.1|Info|RssSyncService|Starting RSS Sync
+20-6-20 19:39:18.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+20-6-20 19:39:18.2|Info|DownloadDecisionMaker|No results found
+20-6-20 19:39:18.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+20-6-20 19:54:19.1|Info|RssSyncService|Starting RSS Sync
+20-6-20 19:54:19.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+20-6-20 19:54:19.2|Info|DownloadDecisionMaker|No results found
+20-6-20 19:54:19.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+20-6-20 20:09:20.0|Info|RssSyncService|Starting RSS Sync
+20-6-20 20:09:20.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+20-6-20 20:09:20.1|Info|DownloadDecisionMaker|No results found
+20-6-20 20:09:20.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+20-6-20 20:24:20.9|Info|RssSyncService|Starting RSS Sync
+20-6-20 20:24:21.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+20-6-20 20:24:21.2|Info|DownloadDecisionMaker|No results found
+20-6-20 20:24:21.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+20-6-20 20:39:22.1|Info|RssSyncService|Starting RSS Sync
+20-6-20 20:39:22.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+20-6-20 20:39:22.2|Info|DownloadDecisionMaker|No results found
+20-6-20 20:39:22.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+20-6-20 20:54:24.2|Info|RssSyncService|Starting RSS Sync
+20-6-20 20:54:24.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+20-6-20 20:54:24.4|Info|DownloadDecisionMaker|No results found
+20-6-20 20:54:24.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+20-6-20 21:09:25.8|Info|RssSyncService|Starting RSS Sync
+20-6-20 21:09:25.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+20-6-20 21:09:25.9|Info|DownloadDecisionMaker|No results found
+20-6-20 21:09:26.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+20-6-20 21:14:23.6|Info|Bootstrap|Starting Sonarr - /app/sonarr/bin/NzbDrone.exe - Version 2.0.0.5344
+20-6-20 21:14:25.5|Info|AppFolderInfo|Data directory is being overridden to [/config]
+20-6-20 21:14:25.8|Info|Router|Application mode: Interactive
+20-6-20 21:14:26.1|Info|MigrationLogger|*** Migrating data source=/config/nzbdrone.db;cache size=-10000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+20-6-20 21:14:26.9|Info|MigrationLogger|*** Migrating data source=/config/logs.db;cache size=-10000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+20-6-20 21:14:27.5|Info|OwinHostController|Listening on the following URLs:
+20-6-20 21:14:27.5|Info|OwinHostController|  http://*:8989/
+20-6-20 21:14:27.8|Info|NancyBootstrapper|Starting Web Server
+20-6-20 21:17:22.7|Info|Bootstrap|Starting Sonarr - /app/sonarr/bin/NzbDrone.exe - Version 2.0.0.5344
+20-6-20 21:17:24.3|Info|AppFolderInfo|Data directory is being overridden to [/config]
+20-6-20 21:17:24.5|Info|Router|Application mode: Interactive
+20-6-20 21:17:24.8|Info|MigrationLogger|*** Migrating data source=/config/nzbdrone.db;cache size=-10000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+20-6-20 21:17:25.6|Info|MigrationLogger|*** Migrating data source=/config/logs.db;cache size=-10000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+20-6-20 21:17:26.2|Info|OwinHostController|Listening on the following URLs:
+20-6-20 21:17:26.2|Info|OwinHostController|  http://*:8989/
+20-6-20 21:17:26.6|Info|NancyBootstrapper|Starting Web Server
+20-6-20 21:19:49.0|Error|Deluge|Unble to test connection
+
+[v2.0.0.5344] System.Net.WebException: DNS Name Resolution Failure: 'deluge'
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x00169] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:101 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.AuthenticateClient (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.Boolean reauthenticate) [0x0005b] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:290 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.BuildRequest (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x0006d] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:203 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:210 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetVersion (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:53 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.TestConnection () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:210 
+
+20-6-20 21:19:50.0|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unknown exception: DNS Name Resolution Failure: 'deluge'
+20-6-20 21:20:04.8|Error|Deluge|Unble to test connection
+
+[v2.0.0.5344] System.Net.WebException: DNS Name Resolution Failure: 'deluge'
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x00169] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:101 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.AuthenticateClient (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.Boolean reauthenticate) [0x0005b] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:290 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.BuildRequest (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x0006d] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:203 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:210 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetVersion (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:53 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.TestConnection () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:210 
+
+20-6-20 21:20:04.9|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unknown exception: DNS Name Resolution Failure: 'deluge'
+20-6-20 21:23:14.7|Error|Deluge|Unble to test connection
+
+[v2.0.0.5344] System.Net.WebException: DNS Name Resolution Failure: 'deluge'
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x00169] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:101 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.AuthenticateClient (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.Boolean reauthenticate) [0x0005b] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:290 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.BuildRequest (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x0006d] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:203 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:210 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetVersion (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:53 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.TestConnection () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:210 
+
+20-6-20 21:23:14.7|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unknown exception: DNS Name Resolution Failure: 'deluge'
+20-6-20 21:23:17.5|Error|Deluge|Unble to test connection
+
+[v2.0.0.5344] System.Net.WebException: DNS Name Resolution Failure: 'deluge'
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x00169] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:101 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.AuthenticateClient (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.Boolean reauthenticate) [0x0005b] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:290 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.BuildRequest (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x0006d] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:203 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:210 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetVersion (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:53 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.TestConnection () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:210 
+
+20-6-20 21:23:17.5|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unknown exception: DNS Name Resolution Failure: 'deluge'
+20-6-20 21:23:23.6|Error|Deluge|Unble to test connection
+
+[v2.0.0.5344] System.Net.WebException: DNS Name Resolution Failure: 'deluge'
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x00169] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:101 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.AuthenticateClient (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.Boolean reauthenticate) [0x0005b] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:290 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.BuildRequest (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x0006d] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:203 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:210 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetVersion (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:53 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.TestConnection () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:210 
+
+20-6-20 21:23:23.6|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unknown exception: DNS Name Resolution Failure: 'deluge'
+20-6-20 21:23:27.6|Error|Deluge|Unble to test connection
+
+[v2.0.0.5344] System.Net.WebException: DNS Name Resolution Failure: 'deluge'
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x00169] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:101 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.AuthenticateClient (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.Boolean reauthenticate) [0x0005b] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:290 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.BuildRequest (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x0006d] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:203 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:210 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetVersion (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:53 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.TestConnection () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:210 
+
+20-6-20 21:23:27.6|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unknown exception: DNS Name Resolution Failure: 'deluge'
+20-6-20 21:23:40.4|Error|Deluge|Failed to test connection
+
+[v2.0.0.5344] System.ArgumentException: Uri didn't match expected pattern: http://deluge:8112/http://deluge
+  at NzbDrone.Common.Http.HttpUri.Parse () [0x00115] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpUri.cs:92 
+  at NzbDrone.Common.Http.HttpUri..ctor (System.String uri) [0x00016] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpUri.cs:20 
+  at NzbDrone.Common.Http.HttpRequestBuilder..ctor (System.String baseUrl) [0x00006] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpRequestBuilder.cs:35 
+  at NzbDrone.Common.Http.JsonRpcRequestBuilder..ctor (System.String baseUrl) [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\JsonRpcRequestBuilder.cs:18 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.BuildRequest (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x0001d] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:197 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:210 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetVersion (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:53 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.TestConnection () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:210 
+
+20-6-20 21:23:41.0|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unknown exception: Uri didn't match expected pattern: http://deluge:8112/http://deluge
+20-6-20 21:24:30.4|Info|RssSyncService|Starting RSS Sync
+20-6-20 21:24:30.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+20-6-20 21:24:30.4|Info|DownloadDecisionMaker|No results found
+20-6-20 21:24:30.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+20-6-20 21:25:15.1|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- 'Name' should not be empty.
+20-6-20 21:25:27.8|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- must be valid URL that starts with http(s)://
+20-6-20 21:25:36.0|Warn|Torznab|Unable to connect to indexer
+
+[v2.0.0.5344] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://jackett/api?t=caps&apikey=(removed) ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.RunWithTimeoutWorker[T] (System.Threading.Tasks.Task`1[TResult] workerTask, System.Int32 timeout, System.Action abort, System.Func`1[TResult] aborted, System.Threading.CancellationTokenSource cts) [0x000f8] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0011b] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:82 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001ca] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Common.Http.HttpClient.Get (NzbDrone.Common.Http.HttpRequest request) [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:264 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x0009a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:62 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider+<>c__DisplayClass4_0.<GetCapabilities>b__0 () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Common.Cache.Cached`1[T].Get (System.String key, System.Func`1[TResult] function, System.Nullable`1[T] lifeTime) [0x0006a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Cache\Cached.cs:81 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x00020] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:23 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:27 
+  at NzbDrone.Core.Indexers.HttpIndexerBase`1[TSettings].TestConnection () [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:334 
+
+20-6-20 21:25:36.0|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect to indexer, check the log for more details
+20-6-20 21:25:43.3|Warn|Torznab|Unable to connect to indexer
+
+[v2.0.0.5344] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://jackett.localhost/api?t=caps&apikey=(removed) ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.RunWithTimeoutWorker[T] (System.Threading.Tasks.Task`1[TResult] workerTask, System.Int32 timeout, System.Action abort, System.Func`1[TResult] aborted, System.Threading.CancellationTokenSource cts) [0x000f8] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0011b] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:82 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001ca] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Common.Http.HttpClient.Get (NzbDrone.Common.Http.HttpRequest request) [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:264 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x0009a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:62 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider+<>c__DisplayClass4_0.<GetCapabilities>b__0 () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Common.Cache.Cached`1[T].Get (System.String key, System.Func`1[TResult] function, System.Nullable`1[T] lifeTime) [0x0006a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Cache\Cached.cs:81 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x00020] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:23 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:27 
+  at NzbDrone.Core.Indexers.HttpIndexerBase`1[TSettings].TestConnection () [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:334 
+
+20-6-20 21:25:43.3|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect to indexer, check the log for more details
+20-6-20 21:25:49.1|Warn|Torznab|Unable to connect to indexer
+
+[v2.0.0.5344] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://jackett/api?t=caps&apikey=(removed) ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.RunWithTimeoutWorker[T] (System.Threading.Tasks.Task`1[TResult] workerTask, System.Int32 timeout, System.Action abort, System.Func`1[TResult] aborted, System.Threading.CancellationTokenSource cts) [0x000f8] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0011b] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:82 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001ca] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Common.Http.HttpClient.Get (NzbDrone.Common.Http.HttpRequest request) [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:264 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x0009a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:62 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider+<>c__DisplayClass4_0.<GetCapabilities>b__0 () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Common.Cache.Cached`1[T].Get (System.String key, System.Func`1[TResult] function, System.Nullable`1[T] lifeTime) [0x0006a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Cache\Cached.cs:81 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x00020] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:23 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:27 
+  at NzbDrone.Core.Indexers.HttpIndexerBase`1[TSettings].TestConnection () [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:334 
+
+20-6-20 21:25:49.1|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect to indexer, check the log for more details
+20-6-20 21:25:59.6|Warn|Torznab|Unable to connect to indexer
+
+[v2.0.0.5344] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://jackett/api?t=caps&apikey=(removed) ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.RunWithTimeoutWorker[T] (System.Threading.Tasks.Task`1[TResult] workerTask, System.Int32 timeout, System.Action abort, System.Func`1[TResult] aborted, System.Threading.CancellationTokenSource cts) [0x000f8] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0011b] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:82 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001ca] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Common.Http.HttpClient.Get (NzbDrone.Common.Http.HttpRequest request) [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:264 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x0009a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:62 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider+<>c__DisplayClass4_0.<GetCapabilities>b__0 () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Common.Cache.Cached`1[T].Get (System.String key, System.Func`1[TResult] function, System.Nullable`1[T] lifeTime) [0x0006a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Cache\Cached.cs:81 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x00020] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:23 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:27 
+  at NzbDrone.Core.Indexers.HttpIndexerBase`1[TSettings].TestConnection () [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:334 
+
+20-6-20 21:25:59.7|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect to indexer, check the log for more details
+20-6-20 21:28:26.0|Warn|Torznab|Unable to connect to indexer
+
+[v2.0.0.5344] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://jackett/api/v2.0/indexers/1337x/results/torznab/api?t=caps&apikey=(removed) ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.RunWithTimeoutWorker[T] (System.Threading.Tasks.Task`1[TResult] workerTask, System.Int32 timeout, System.Action abort, System.Func`1[TResult] aborted, System.Threading.CancellationTokenSource cts) [0x000f8] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0011b] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:82 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001ca] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Common.Http.HttpClient.Get (NzbDrone.Common.Http.HttpRequest request) [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:264 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x0009a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:62 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider+<>c__DisplayClass4_0.<GetCapabilities>b__0 () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Common.Cache.Cached`1[T].Get (System.String key, System.Func`1[TResult] function, System.Nullable`1[T] lifeTime) [0x0006a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Cache\Cached.cs:81 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x00020] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:23 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:27 
+  at NzbDrone.Core.Indexers.HttpIndexerBase`1[TSettings].TestConnection () [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:334 
+
+20-6-20 21:28:26.1|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect to indexer, check the log for more details
+20-6-20 21:28:27.9|Warn|Torznab|Unable to connect to indexer
+
+[v2.0.0.5344] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://jackett/api/v2.0/indexers/1337x/results/torznab/api?t=caps&apikey=(removed) ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.RunWithTimeoutWorker[T] (System.Threading.Tasks.Task`1[TResult] workerTask, System.Int32 timeout, System.Action abort, System.Func`1[TResult] aborted, System.Threading.CancellationTokenSource cts) [0x000f8] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0011b] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:82 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001ca] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Common.Http.HttpClient.Get (NzbDrone.Common.Http.HttpRequest request) [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:264 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x0009a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:62 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider+<>c__DisplayClass4_0.<GetCapabilities>b__0 () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Common.Cache.Cached`1[T].Get (System.String key, System.Func`1[TResult] function, System.Nullable`1[T] lifeTime) [0x0006a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Cache\Cached.cs:81 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x00020] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:23 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:27 
+  at NzbDrone.Core.Indexers.HttpIndexerBase`1[TSettings].TestConnection () [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:334 
+
+20-6-20 21:28:28.0|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect to indexer, check the log for more details
+20-6-20 21:28:28.8|Warn|Torznab|Unable to connect to indexer
+
+[v2.0.0.5344] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://jackett/api/v2.0/indexers/1337x/results/torznab/api?t=caps&apikey=(removed) ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.RunWithTimeoutWorker[T] (System.Threading.Tasks.Task`1[TResult] workerTask, System.Int32 timeout, System.Action abort, System.Func`1[TResult] aborted, System.Threading.CancellationTokenSource cts) [0x000f8] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0011b] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:82 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001ca] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Common.Http.HttpClient.Get (NzbDrone.Common.Http.HttpRequest request) [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:264 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x0009a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:62 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider+<>c__DisplayClass4_0.<GetCapabilities>b__0 () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Common.Cache.Cached`1[T].Get (System.String key, System.Func`1[TResult] function, System.Nullable`1[T] lifeTime) [0x0006a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Cache\Cached.cs:81 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x00020] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:23 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:27 
+  at NzbDrone.Core.Indexers.HttpIndexerBase`1[TSettings].TestConnection () [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:334 
+
+20-6-20 21:28:28.9|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect to indexer, check the log for more details
+20-6-20 21:28:29.1|Warn|Torznab|Unable to connect to indexer
+
+[v2.0.0.5344] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://jackett/api/v2.0/indexers/1337x/results/torznab/api?t=caps&apikey=(removed) ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.RunWithTimeoutWorker[T] (System.Threading.Tasks.Task`1[TResult] workerTask, System.Int32 timeout, System.Action abort, System.Func`1[TResult] aborted, System.Threading.CancellationTokenSource cts) [0x000f8] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0011b] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:82 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001ca] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Common.Http.HttpClient.Get (NzbDrone.Common.Http.HttpRequest request) [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:264 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x0009a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:62 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider+<>c__DisplayClass4_0.<GetCapabilities>b__0 () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Common.Cache.Cached`1[T].Get (System.String key, System.Func`1[TResult] function, System.Nullable`1[T] lifeTime) [0x0006a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Cache\Cached.cs:81 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x00020] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:23 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:27 
+  at NzbDrone.Core.Indexers.HttpIndexerBase`1[TSettings].TestConnection () [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:334 
+
+20-6-20 21:28:29.2|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect to indexer, check the log for more details
+20-6-20 21:31:17.4|Warn|Torznab|Unable to connect to indexer
+
+[v2.0.0.5344] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://jackett.docker.localhost/api/v2.0/indexers/1337x/results/torznab/api?t=caps&apikey=(removed) ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.RunWithTimeoutWorker[T] (System.Threading.Tasks.Task`1[TResult] workerTask, System.Int32 timeout, System.Action abort, System.Func`1[TResult] aborted, System.Threading.CancellationTokenSource cts) [0x000f8] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0011b] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:82 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001ca] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Common.Http.HttpClient.Get (NzbDrone.Common.Http.HttpRequest request) [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:264 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x0009a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:62 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider+<>c__DisplayClass4_0.<GetCapabilities>b__0 () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Common.Cache.Cached`1[T].Get (System.String key, System.Func`1[TResult] function, System.Nullable`1[T] lifeTime) [0x0006a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Cache\Cached.cs:81 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x00020] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:23 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:27 
+  at NzbDrone.Core.Indexers.HttpIndexerBase`1[TSettings].TestConnection () [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:334 
+
+20-6-20 21:31:17.5|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect to indexer, check the log for more details
+20-6-20 21:31:24.5|Warn|Torznab|Unable to connect to indexer
+
+[v2.0.0.5344] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://jackett/api/v2.0/indexers/1337x/results/torznab/api?t=caps&apikey=(removed) ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.RunWithTimeoutWorker[T] (System.Threading.Tasks.Task`1[TResult] workerTask, System.Int32 timeout, System.Action abort, System.Func`1[TResult] aborted, System.Threading.CancellationTokenSource cts) [0x000f8] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0011b] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:82 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001ca] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Common.Http.HttpClient.Get (NzbDrone.Common.Http.HttpRequest request) [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:264 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x0009a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:62 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider+<>c__DisplayClass4_0.<GetCapabilities>b__0 () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Common.Cache.Cached`1[T].Get (System.String key, System.Func`1[TResult] function, System.Nullable`1[T] lifeTime) [0x0006a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Cache\Cached.cs:81 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x00020] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:23 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:27 
+  at NzbDrone.Core.Indexers.HttpIndexerBase`1[TSettings].TestConnection () [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:334 
+
+20-6-20 21:31:24.6|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect to indexer, check the log for more details
+20-6-20 21:31:25.5|Warn|Torznab|Unable to connect to indexer
+
+[v2.0.0.5344] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://jackett/api/v2.0/indexers/1337x/results/torznab/api?t=caps&apikey=(removed) ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.RunWithTimeoutWorker[T] (System.Threading.Tasks.Task`1[TResult] workerTask, System.Int32 timeout, System.Action abort, System.Func`1[TResult] aborted, System.Threading.CancellationTokenSource cts) [0x000f8] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0011b] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:82 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001ca] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Common.Http.HttpClient.Get (NzbDrone.Common.Http.HttpRequest request) [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:264 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x0009a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:62 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider+<>c__DisplayClass4_0.<GetCapabilities>b__0 () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Common.Cache.Cached`1[T].Get (System.String key, System.Func`1[TResult] function, System.Nullable`1[T] lifeTime) [0x0006a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Cache\Cached.cs:81 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x00020] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:23 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:27 
+  at NzbDrone.Core.Indexers.HttpIndexerBase`1[TSettings].TestConnection () [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:334 
+
+20-6-20 21:31:25.6|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect to indexer, check the log for more details
+20-6-20 21:31:25.7|Warn|Torznab|Unable to connect to indexer
+
+[v2.0.0.5344] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://jackett/api/v2.0/indexers/1337x/results/torznab/api?t=caps&apikey=(removed) ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.RunWithTimeoutWorker[T] (System.Threading.Tasks.Task`1[TResult] workerTask, System.Int32 timeout, System.Action abort, System.Func`1[TResult] aborted, System.Threading.CancellationTokenSource cts) [0x000f8] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0011b] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:82 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001ca] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Common.Http.HttpClient.Get (NzbDrone.Common.Http.HttpRequest request) [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:264 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x0009a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:62 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider+<>c__DisplayClass4_0.<GetCapabilities>b__0 () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Common.Cache.Cached`1[T].Get (System.String key, System.Func`1[TResult] function, System.Nullable`1[T] lifeTime) [0x0006a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Cache\Cached.cs:81 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x00020] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:23 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:27 
+  at NzbDrone.Core.Indexers.HttpIndexerBase`1[TSettings].TestConnection () [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:334 
+
+20-6-20 21:31:25.8|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect to indexer, check the log for more details
+20-6-20 21:31:25.9|Warn|Torznab|Unable to connect to indexer
+
+[v2.0.0.5344] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://jackett/api/v2.0/indexers/1337x/results/torznab/api?t=caps&apikey=(removed) ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.RunWithTimeoutWorker[T] (System.Threading.Tasks.Task`1[TResult] workerTask, System.Int32 timeout, System.Action abort, System.Func`1[TResult] aborted, System.Threading.CancellationTokenSource cts) [0x000f8] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0011b] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:82 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001ca] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Common.Http.HttpClient.Get (NzbDrone.Common.Http.HttpRequest request) [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:264 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x0009a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:62 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider+<>c__DisplayClass4_0.<GetCapabilities>b__0 () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Common.Cache.Cached`1[T].Get (System.String key, System.Func`1[TResult] function, System.Nullable`1[T] lifeTime) [0x0006a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Cache\Cached.cs:81 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x00020] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:23 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:27 
+  at NzbDrone.Core.Indexers.HttpIndexerBase`1[TSettings].TestConnection () [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:334 
+
+20-6-20 21:31:26.0|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect to indexer, check the log for more details
+20-6-20 21:35:22.0|Info|Bootstrap|Starting Sonarr - /app/sonarr/bin/NzbDrone.exe - Version 2.0.0.5344
+20-6-20 21:35:26.0|Info|AppFolderInfo|Data directory is being overridden to [/config]
+20-6-20 21:35:27.0|Info|Router|Application mode: Interactive
+20-6-20 21:35:27.9|Info|MigrationLogger|*** Migrating data source=/config/nzbdrone.db;cache size=-10000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+20-6-20 21:35:29.4|Info|MigrationLogger|*** Migrating data source=/config/logs.db;cache size=-10000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+20-6-20 21:35:31.3|Info|OwinHostController|Listening on the following URLs:
+20-6-20 21:35:31.4|Info|OwinHostController|  http://*:8989/
+20-6-20 21:35:32.3|Info|NancyBootstrapper|Starting Web Server
+20-6-20 21:39:36.5|Info|RssSyncService|Starting RSS Sync
+20-6-20 21:39:36.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+20-6-20 21:39:36.6|Info|DownloadDecisionMaker|No results found
+20-6-20 21:39:36.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+20-6-20 21:40:45.1|Info|Bootstrap|Starting Sonarr - /app/sonarr/bin/NzbDrone.exe - Version 2.0.0.5344
+20-6-20 21:40:47.9|Info|AppFolderInfo|Data directory is being overridden to [/config]
+20-6-20 21:40:48.4|Info|Router|Application mode: Interactive
+20-6-20 21:40:49.0|Info|MigrationLogger|*** Migrating data source=/config/nzbdrone.db;cache size=-10000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+20-6-20 21:40:49.7|Info|MigrationLogger|*** Migrating data source=/config/logs.db;cache size=-10000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+20-6-20 21:40:53.2|Info|OwinHostController|Listening on the following URLs:
+20-6-20 21:40:53.3|Info|OwinHostController|  http://*:8989/
+20-6-20 21:40:54.0|Info|NancyBootstrapper|Starting Web Server
+20-6-20 21:42:53.0|Warn|Torznab|Unable to connect to indexer
+
+[v2.0.0.5344] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://jackett.localhost/api/v2.0/indexers/1337x/results/torznab/api?t=caps&apikey=(removed) ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.RunWithTimeoutWorker[T] (System.Threading.Tasks.Task`1[TResult] workerTask, System.Int32 timeout, System.Action abort, System.Func`1[TResult] aborted, System.Threading.CancellationTokenSource cts) [0x000f8] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0011b] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:82 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001ca] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Common.Http.HttpClient.Get (NzbDrone.Common.Http.HttpRequest request) [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:264 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x0009a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:62 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider+<>c__DisplayClass4_0.<GetCapabilities>b__0 () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Common.Cache.Cached`1[T].Get (System.String key, System.Func`1[TResult] function, System.Nullable`1[T] lifeTime) [0x0006a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Cache\Cached.cs:81 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x00020] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:23 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:27 
+  at NzbDrone.Core.Indexers.HttpIndexerBase`1[TSettings].TestConnection () [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:334 
+
+20-6-20 21:42:53.2|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect to indexer, check the log for more details
+20-6-20 21:42:57.5|Warn|Torznab|Unable to connect to indexer
+
+[v2.0.0.5344] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://jackett/api/v2.0/indexers/1337x/results/torznab/api?t=caps&apikey=(removed) ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.RunWithTimeoutWorker[T] (System.Threading.Tasks.Task`1[TResult] workerTask, System.Int32 timeout, System.Action abort, System.Func`1[TResult] aborted, System.Threading.CancellationTokenSource cts) [0x000f8] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0011b] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:82 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001ca] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Common.Http.HttpClient.Get (NzbDrone.Common.Http.HttpRequest request) [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:264 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x0009a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:62 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider+<>c__DisplayClass4_0.<GetCapabilities>b__0 () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Common.Cache.Cached`1[T].Get (System.String key, System.Func`1[TResult] function, System.Nullable`1[T] lifeTime) [0x0006a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Cache\Cached.cs:81 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x00020] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:23 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:27 
+  at NzbDrone.Core.Indexers.HttpIndexerBase`1[TSettings].TestConnection () [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:334 
+
+20-6-20 21:42:57.5|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect to indexer, check the log for more details
+20-6-20 21:43:01.3|Warn|Torznab|Unable to connect to indexer
+
+[v2.0.0.5344] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://jackett/api/v2.0/indexers/1337x/results/torznab/api?t=caps&apikey=(removed) ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.RunWithTimeoutWorker[T] (System.Threading.Tasks.Task`1[TResult] workerTask, System.Int32 timeout, System.Action abort, System.Func`1[TResult] aborted, System.Threading.CancellationTokenSource cts) [0x000f8] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0011b] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:82 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001ca] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Common.Http.HttpClient.Get (NzbDrone.Common.Http.HttpRequest request) [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:264 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x0009a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:62 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider+<>c__DisplayClass4_0.<GetCapabilities>b__0 () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Common.Cache.Cached`1[T].Get (System.String key, System.Func`1[TResult] function, System.Nullable`1[T] lifeTime) [0x0006a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Cache\Cached.cs:81 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x00020] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:23 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:27 
+  at NzbDrone.Core.Indexers.HttpIndexerBase`1[TSettings].TestConnection () [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:334 
+
+20-6-20 21:43:01.4|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect to indexer, check the log for more details
+20-6-20 21:43:02.0|Warn|Torznab|Unable to connect to indexer
+
+[v2.0.0.5344] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://jackett/api/v2.0/indexers/1337x/results/torznab/api?t=caps&apikey=(removed) ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.RunWithTimeoutWorker[T] (System.Threading.Tasks.Task`1[TResult] workerTask, System.Int32 timeout, System.Action abort, System.Func`1[TResult] aborted, System.Threading.CancellationTokenSource cts) [0x000f8] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0011b] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:82 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001ca] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Common.Http.HttpClient.Get (NzbDrone.Common.Http.HttpRequest request) [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:264 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x0009a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:62 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider+<>c__DisplayClass4_0.<GetCapabilities>b__0 () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Common.Cache.Cached`1[T].Get (System.String key, System.Func`1[TResult] function, System.Nullable`1[T] lifeTime) [0x0006a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Cache\Cached.cs:81 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x00020] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:23 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:27 
+  at NzbDrone.Core.Indexers.HttpIndexerBase`1[TSettings].TestConnection () [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:334 
+
+20-6-20 21:43:02.0|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect to indexer, check the log for more details
+20-6-20 21:43:02.2|Warn|Torznab|Unable to connect to indexer
+
+[v2.0.0.5344] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://jackett/api/v2.0/indexers/1337x/results/torznab/api?t=caps&apikey=(removed) ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.RunWithTimeoutWorker[T] (System.Threading.Tasks.Task`1[TResult] workerTask, System.Int32 timeout, System.Action abort, System.Func`1[TResult] aborted, System.Threading.CancellationTokenSource cts) [0x000f8] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0011b] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:82 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001ca] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Common.Http.HttpClient.Get (NzbDrone.Common.Http.HttpRequest request) [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:264 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x0009a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:62 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider+<>c__DisplayClass4_0.<GetCapabilities>b__0 () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Common.Cache.Cached`1[T].Get (System.String key, System.Func`1[TResult] function, System.Nullable`1[T] lifeTime) [0x0006a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Cache\Cached.cs:81 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x00020] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:23 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:27 
+  at NzbDrone.Core.Indexers.HttpIndexerBase`1[TSettings].TestConnection () [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:334 
+
+20-6-20 21:43:02.2|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect to indexer, check the log for more details
+20-6-20 21:43:02.4|Warn|Torznab|Unable to connect to indexer
+
+[v2.0.0.5344] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://jackett/api/v2.0/indexers/1337x/results/torznab/api?t=caps&apikey=(removed) ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.RunWithTimeoutWorker[T] (System.Threading.Tasks.Task`1[TResult] workerTask, System.Int32 timeout, System.Action abort, System.Func`1[TResult] aborted, System.Threading.CancellationTokenSource cts) [0x000f8] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0011b] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:82 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001ca] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Common.Http.HttpClient.Get (NzbDrone.Common.Http.HttpRequest request) [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:264 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x0009a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:62 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider+<>c__DisplayClass4_0.<GetCapabilities>b__0 () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Common.Cache.Cached`1[T].Get (System.String key, System.Func`1[TResult] function, System.Nullable`1[T] lifeTime) [0x0006a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Cache\Cached.cs:81 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x00020] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:23 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:27 
+  at NzbDrone.Core.Indexers.HttpIndexerBase`1[TSettings].TestConnection () [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:334 
+
+20-6-20 21:43:02.4|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect to indexer, check the log for more details
+20-6-20 21:43:02.7|Warn|Torznab|Unable to connect to indexer
+
+[v2.0.0.5344] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://jackett/api/v2.0/indexers/1337x/results/torznab/api?t=caps&apikey=(removed) ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.RunWithTimeoutWorker[T] (System.Threading.Tasks.Task`1[TResult] workerTask, System.Int32 timeout, System.Action abort, System.Func`1[TResult] aborted, System.Threading.CancellationTokenSource cts) [0x000f8] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0011b] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:82 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001ca] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Common.Http.HttpClient.Get (NzbDrone.Common.Http.HttpRequest request) [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:264 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x0009a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:62 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider+<>c__DisplayClass4_0.<GetCapabilities>b__0 () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Common.Cache.Cached`1[T].Get (System.String key, System.Func`1[TResult] function, System.Nullable`1[T] lifeTime) [0x0006a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Cache\Cached.cs:81 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x00020] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:23 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:27 
+  at NzbDrone.Core.Indexers.HttpIndexerBase`1[TSettings].TestConnection () [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:334 
+
+20-6-20 21:43:02.7|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect to indexer, check the log for more details
+20-6-20 21:43:03.1|Warn|Torznab|Unable to connect to indexer
+
+[v2.0.0.5344] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://jackett/api/v2.0/indexers/1337x/results/torznab/api?t=caps&apikey=(removed) ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.RunWithTimeoutWorker[T] (System.Threading.Tasks.Task`1[TResult] workerTask, System.Int32 timeout, System.Action abort, System.Func`1[TResult] aborted, System.Threading.CancellationTokenSource cts) [0x000f8] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0011b] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:82 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001ca] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Common.Http.HttpClient.Get (NzbDrone.Common.Http.HttpRequest request) [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:264 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x0009a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:62 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider+<>c__DisplayClass4_0.<GetCapabilities>b__0 () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Common.Cache.Cached`1[T].Get (System.String key, System.Func`1[TResult] function, System.Nullable`1[T] lifeTime) [0x0006a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Cache\Cached.cs:81 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x00020] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:23 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:27 
+  at NzbDrone.Core.Indexers.HttpIndexerBase`1[TSettings].TestConnection () [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:334 
+
+20-6-20 21:43:03.2|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect to indexer, check the log for more details
+20-6-20 21:43:03.5|Warn|Torznab|Unable to connect to indexer
+
+[v2.0.0.5344] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://jackett/api/v2.0/indexers/1337x/results/torznab/api?t=caps&apikey=(removed) ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.RunWithTimeoutWorker[T] (System.Threading.Tasks.Task`1[TResult] workerTask, System.Int32 timeout, System.Action abort, System.Func`1[TResult] aborted, System.Threading.CancellationTokenSource cts) [0x000f8] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0011b] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:82 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001ca] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Common.Http.HttpClient.Get (NzbDrone.Common.Http.HttpRequest request) [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:264 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x0009a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:62 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider+<>c__DisplayClass4_0.<GetCapabilities>b__0 () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Common.Cache.Cached`1[T].Get (System.String key, System.Func`1[TResult] function, System.Nullable`1[T] lifeTime) [0x0006a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Cache\Cached.cs:81 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x00020] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:23 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:27 
+  at NzbDrone.Core.Indexers.HttpIndexerBase`1[TSettings].TestConnection () [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:334 
+
+20-6-20 21:43:03.6|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect to indexer, check the log for more details
+20-6-20 21:43:03.7|Warn|Torznab|Unable to connect to indexer
+
+[v2.0.0.5344] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://jackett/api/v2.0/indexers/1337x/results/torznab/api?t=caps&apikey=(removed) ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.RunWithTimeoutWorker[T] (System.Threading.Tasks.Task`1[TResult] workerTask, System.Int32 timeout, System.Action abort, System.Func`1[TResult] aborted, System.Threading.CancellationTokenSource cts) [0x000f8] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0011b] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:82 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001ca] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Common.Http.HttpClient.Get (NzbDrone.Common.Http.HttpRequest request) [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:264 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x0009a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:62 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider+<>c__DisplayClass4_0.<GetCapabilities>b__0 () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Common.Cache.Cached`1[T].Get (System.String key, System.Func`1[TResult] function, System.Nullable`1[T] lifeTime) [0x0006a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Cache\Cached.cs:81 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x00020] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:23 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:27 
+  at NzbDrone.Core.Indexers.HttpIndexerBase`1[TSettings].TestConnection () [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:334 
+
+20-6-20 21:43:03.8|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect to indexer, check the log for more details
+20-6-20 21:43:03.9|Warn|Torznab|Unable to connect to indexer
+
+[v2.0.0.5344] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://jackett/api/v2.0/indexers/1337x/results/torznab/api?t=caps&apikey=(removed) ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.RunWithTimeoutWorker[T] (System.Threading.Tasks.Task`1[TResult] workerTask, System.Int32 timeout, System.Action abort, System.Func`1[TResult] aborted, System.Threading.CancellationTokenSource cts) [0x000f8] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0011b] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:82 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001ca] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Common.Http.HttpClient.Get (NzbDrone.Common.Http.HttpRequest request) [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:264 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x0009a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:62 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider+<>c__DisplayClass4_0.<GetCapabilities>b__0 () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Common.Cache.Cached`1[T].Get (System.String key, System.Func`1[TResult] function, System.Nullable`1[T] lifeTime) [0x0006a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Cache\Cached.cs:81 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x00020] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:23 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:27 
+  at NzbDrone.Core.Indexers.HttpIndexerBase`1[TSettings].TestConnection () [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:334 
+
+20-6-20 21:43:04.0|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect to indexer, check the log for more details
+20-6-20 21:43:04.2|Warn|Torznab|Unable to connect to indexer
+
+[v2.0.0.5344] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://jackett/api/v2.0/indexers/1337x/results/torznab/api?t=caps&apikey=(removed) ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.RunWithTimeoutWorker[T] (System.Threading.Tasks.Task`1[TResult] workerTask, System.Int32 timeout, System.Action abort, System.Func`1[TResult] aborted, System.Threading.CancellationTokenSource cts) [0x000f8] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0011b] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:82 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001ca] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Common.Http.HttpClient.Get (NzbDrone.Common.Http.HttpRequest request) [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:264 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x0009a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:62 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider+<>c__DisplayClass4_0.<GetCapabilities>b__0 () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Common.Cache.Cached`1[T].Get (System.String key, System.Func`1[TResult] function, System.Nullable`1[T] lifeTime) [0x0006a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Cache\Cached.cs:81 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x00020] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:23 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:27 
+  at NzbDrone.Core.Indexers.HttpIndexerBase`1[TSettings].TestConnection () [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:334 
+
+20-6-20 21:43:04.2|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect to indexer, check the log for more details
+20-6-20 21:43:04.4|Warn|Torznab|Unable to connect to indexer
+
+[v2.0.0.5344] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://jackett/api/v2.0/indexers/1337x/results/torznab/api?t=caps&apikey=(removed) ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.RunWithTimeoutWorker[T] (System.Threading.Tasks.Task`1[TResult] workerTask, System.Int32 timeout, System.Action abort, System.Func`1[TResult] aborted, System.Threading.CancellationTokenSource cts) [0x000f8] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0011b] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:82 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001ca] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Common.Http.HttpClient.Get (NzbDrone.Common.Http.HttpRequest request) [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:264 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x0009a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:62 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider+<>c__DisplayClass4_0.<GetCapabilities>b__0 () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Common.Cache.Cached`1[T].Get (System.String key, System.Func`1[TResult] function, System.Nullable`1[T] lifeTime) [0x0006a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Cache\Cached.cs:81 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x00020] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:23 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:27 
+  at NzbDrone.Core.Indexers.HttpIndexerBase`1[TSettings].TestConnection () [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:334 
+
+20-6-20 21:43:04.4|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect to indexer, check the log for more details
+20-6-20 21:43:04.6|Warn|Torznab|Unable to connect to indexer
+
+[v2.0.0.5344] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://jackett/api/v2.0/indexers/1337x/results/torznab/api?t=caps&apikey=(removed) ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.RunWithTimeoutWorker[T] (System.Threading.Tasks.Task`1[TResult] workerTask, System.Int32 timeout, System.Action abort, System.Func`1[TResult] aborted, System.Threading.CancellationTokenSource cts) [0x000f8] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0011b] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:82 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001ca] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Common.Http.HttpClient.Get (NzbDrone.Common.Http.HttpRequest request) [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:264 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x0009a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:62 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider+<>c__DisplayClass4_0.<GetCapabilities>b__0 () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Common.Cache.Cached`1[T].Get (System.String key, System.Func`1[TResult] function, System.Nullable`1[T] lifeTime) [0x0006a] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Cache\Cached.cs:81 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x00020] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:35 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:23 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:27 
+  at NzbDrone.Core.Indexers.HttpIndexerBase`1[TSettings].TestConnection () [0x00007] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:334 
+
+20-6-20 21:43:04.7|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect to indexer, check the log for more details
+20-6-20 21:44:57.9|Warn|Torznab|Unable to connect to indexer
+
+[v2.0.0.5344] NzbDrone.Core.Indexers.Torznab.TorznabException: Torznab error detected: Jackett.Common.IndexerException: Exception (1337x): Connection refused
+ ---> System.Net.Http.HttpRequestException: Connection refused
+ ---> System.Net.Sockets.SocketException (111): Connection refused
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean allowHttp2, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at CloudflareSolverRe.ClearanceHandler.SendRequestAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at CloudflareSolverRe.ClearanceHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   at Jackett.Common.Utils.Clients.HttpWebClient2NetCore.Run(WebRequest webRequest) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/HttpWebClient2NetCore.cs:line 229
+   at Jackett.Common.Utils.Clients.WebClient.GetString(WebRequest request) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/WebClient.cs:line 114
+   at Jackett.Common.Indexers.BaseWebIndexer.RequestStringWithCookies(String url, String cookieOverride, String referer, Dictionary`2 headers) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 443
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1341
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 325
+   --- End of inner exception stack trace ---
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 345
+   at Jackett.Common.Indexers.BaseWebIndexer.ResultsForQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 804
+   at Jackett.Server.Controllers.ResultsController.Torznab(TorznabRequest request) in /home/vsts/work/1/s/src/Jackett.Server/Controllers/ResultsController.cs:line 370
+  at NzbDrone.Core.Indexers.Torznab.TorznabRssParser.PreProcess (NzbDrone.Core.Indexers.IndexerResponse indexerResponse) [0x000b6] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\TorznabRssParser.cs:42 
+  at NzbDrone.Core.Indexers.RssParser.ParseResponse (NzbDrone.Core.Indexers.IndexerResponse indexerResponse) [0x0000d] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\RssParser.cs:55 
+  at NzbDrone.Core.Indexers.HttpIndexerBase`1[TSettings].FetchPage (NzbDrone.Core.Indexers.IndexerRequest request, NzbDrone.Core.Indexers.IParseIndexerResponse parser) [0x00050] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:308 
+  at NzbDrone.Core.Indexers.HttpIndexerBase`1[TSettings].TestConnection () [0x0000e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:335 
+
+20-6-20 21:44:58.0|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect to indexer, check the log for more details
+20-6-20 21:45:14.7|Warn|Torznab|Unable to connect to indexer
+
+[v2.0.0.5344] NzbDrone.Core.Indexers.Torznab.TorznabException: Torznab error detected: Jackett.Common.IndexerException: Exception (1337x): Connection refused
+ ---> System.Net.Http.HttpRequestException: Connection refused
+ ---> System.Net.Sockets.SocketException (111): Connection refused
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean allowHttp2, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at CloudflareSolverRe.ClearanceHandler.SendRequestAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at CloudflareSolverRe.ClearanceHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   at Jackett.Common.Utils.Clients.HttpWebClient2NetCore.Run(WebRequest webRequest) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/HttpWebClient2NetCore.cs:line 229
+   at Jackett.Common.Utils.Clients.WebClient.GetString(WebRequest request) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/WebClient.cs:line 114
+   at Jackett.Common.Indexers.BaseWebIndexer.RequestStringWithCookies(String url, String cookieOverride, String referer, Dictionary`2 headers) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 443
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1341
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 325
+   --- End of inner exception stack trace ---
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 345
+   at Jackett.Common.Indexers.BaseWebIndexer.ResultsForQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 804
+   at Jackett.Server.Controllers.ResultsController.Torznab(TorznabRequest request) in /home/vsts/work/1/s/src/Jackett.Server/Controllers/ResultsController.cs:line 370
+  at NzbDrone.Core.Indexers.Torznab.TorznabRssParser.PreProcess (NzbDrone.Core.Indexers.IndexerResponse indexerResponse) [0x000b6] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\TorznabRssParser.cs:42 
+  at NzbDrone.Core.Indexers.RssParser.ParseResponse (NzbDrone.Core.Indexers.IndexerResponse indexerResponse) [0x0000d] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\RssParser.cs:55 
+  at NzbDrone.Core.Indexers.HttpIndexerBase`1[TSettings].FetchPage (NzbDrone.Core.Indexers.IndexerRequest request, NzbDrone.Core.Indexers.IParseIndexerResponse parser) [0x00050] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:308 
+  at NzbDrone.Core.Indexers.HttpIndexerBase`1[TSettings].TestConnection () [0x0000e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:335 
+
+20-6-20 21:45:14.8|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect to indexer, check the log for more details
+20-6-20 21:45:18.6|Warn|Torznab|Unable to connect to indexer
+
+[v2.0.0.5344] NzbDrone.Core.Indexers.Torznab.TorznabException: Torznab error detected: Jackett.Common.IndexerException: Exception (1337x): Connection refused
+ ---> System.Net.Http.HttpRequestException: Connection refused
+ ---> System.Net.Sockets.SocketException (111): Connection refused
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean allowHttp2, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at CloudflareSolverRe.ClearanceHandler.SendRequestAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at CloudflareSolverRe.ClearanceHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   at Jackett.Common.Utils.Clients.HttpWebClient2NetCore.Run(WebRequest webRequest) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/HttpWebClient2NetCore.cs:line 229
+   at Jackett.Common.Utils.Clients.WebClient.GetString(WebRequest request) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/WebClient.cs:line 114
+   at Jackett.Common.Indexers.BaseWebIndexer.RequestStringWithCookies(String url, String cookieOverride, String referer, Dictionary`2 headers) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 443
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1341
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 325
+   --- End of inner exception stack trace ---
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 345
+   at Jackett.Common.Indexers.BaseWebIndexer.ResultsForQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 804
+   at Jackett.Server.Controllers.ResultsController.Torznab(TorznabRequest request) in /home/vsts/work/1/s/src/Jackett.Server/Controllers/ResultsController.cs:line 370
+  at NzbDrone.Core.Indexers.Torznab.TorznabRssParser.PreProcess (NzbDrone.Core.Indexers.IndexerResponse indexerResponse) [0x000b6] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\Torznab\TorznabRssParser.cs:42 
+  at NzbDrone.Core.Indexers.RssParser.ParseResponse (NzbDrone.Core.Indexers.IndexerResponse indexerResponse) [0x0000d] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\RssParser.cs:55 
+  at NzbDrone.Core.Indexers.HttpIndexerBase`1[TSettings].FetchPage (NzbDrone.Core.Indexers.IndexerRequest request, NzbDrone.Core.Indexers.IParseIndexerResponse parser) [0x00050] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:308 
+  at NzbDrone.Core.Indexers.HttpIndexerBase`1[TSettings].TestConnection () [0x0000e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:335 
+
+20-6-20 21:45:18.6|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect to indexer, check the log for more details
+20-6-20 21:46:03.5|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- 'Name' should not be empty.
+20-6-20 21:46:08.2|Error|Deluge|Unble to test connection
+
+[v2.0.0.5344] System.Net.WebException: DNS Name Resolution Failure: 'deluge'
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x00169] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:101 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.AuthenticateClient (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.Boolean reauthenticate) [0x0005b] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:290 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.BuildRequest (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x0006d] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:203 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:210 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetVersion (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:53 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.TestConnection () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:210 
+
+20-6-20 21:46:09.2|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unknown exception: DNS Name Resolution Failure: 'deluge'
+20-6-20 21:46:10.8|Error|Deluge|Unble to test connection
+
+[v2.0.0.5344] System.Net.WebException: DNS Name Resolution Failure: 'deluge'
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x00169] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:101 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.AuthenticateClient (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.Boolean reauthenticate) [0x0005b] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:290 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.BuildRequest (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x0006d] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:203 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:210 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetVersion (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:53 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.TestConnection () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:210 
+
+20-6-20 21:46:11.0|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unknown exception: DNS Name Resolution Failure: 'deluge'
+20-6-20 21:46:12.6|Error|Deluge|Unble to test connection
+
+[v2.0.0.5344] System.Net.WebException: DNS Name Resolution Failure: 'deluge'
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x00169] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:101 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.AuthenticateClient (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.Boolean reauthenticate) [0x0005b] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:290 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.BuildRequest (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x0006d] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:203 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:210 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetVersion (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:53 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.TestConnection () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:210 
+
+20-6-20 21:46:12.7|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unknown exception: DNS Name Resolution Failure: 'deluge'
+20-6-20 21:46:41.4|Error|Deluge|Unble to test connection
+
+[v2.0.0.5344] System.Net.WebException: DNS Name Resolution Failure: '2c686ec206ea'
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x00169] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:101 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000b5] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:53 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.AuthenticateClient (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.Boolean reauthenticate) [0x0005b] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:290 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.BuildRequest (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x0006d] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:203 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:210 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetVersion (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:53 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.TestConnection () [0x00000] in C:\BuildAgent\work\5d7581516c0ee5b3\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:210 
+
+20-6-20 21:46:41.5|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unknown exception: DNS Name Resolution Failure: '2c686ec206ea'
