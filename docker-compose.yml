@@ -16,6 +16,9 @@ services:
       - ./config/vpn:/vpn # OpenVPN configuration
     security_opt:
        - label:disable
+    dns:
+      - 8.8.8.8
+      - 1.1.1.1
     command: '-f "" -r 10.10.9.0/24' # enable firewall and route local network traffic
     networks:
       - internal
@@ -23,29 +26,29 @@ services:
   deluge:
     image: linuxserver/deluge:latest
     restart: unless-stopped
-    # network_mode: service:vpn # run on the vpn network
+    network_mode: service:vpn # run on the vpn network
     environment:
-      - PUID=1001 # default user id, defined in .env
-      - PGID=1001 # default group id, defined in .env
+      - PUID=1000 # default user id, defined in .env
+      - PGID=1000 # default group id, defined in .env
       - TZ=europe/lisbon # timezone, defined in .env
     labels:
       - "traefik.enable=true"
       - "traefik.http.routers.deluge.entrypoints=web"
       - "traefik.http.routers.deluge.rule=Host(`deluge.localhost`)"
       - "traefik.http.routers.deluge.service=deluge"
-      - "traefik.http.services.deluge.loadbalancer.server.port=8112"
+      - "traefik.http.services.deluge.loadbalancer.server.port=8112"    
     volumes:
       - ./downloads:/downloads # downloads folder
       - ./config/deluge:/config # config files
-    networks:
-      - internal
+    # networks:
+    #   - internal
 
   jackett:
     image: linuxserver/jackett:latest
     restart: unless-stopped
     environment:
-      - PUID=1001 # default user id, defined in .env
-      - PGID=1001 # default group id, defined in .env
+      - PUID=1000 # default user id, defined in .env
+      - PGID=1000 # default group id, defined in .env
       - TZ=europe/lisbon # timezone, defined in .env
     volumes:
       #- /etc/localtime:/etc/localtime:ro
@@ -64,8 +67,8 @@ services:
     image: linuxserver/nzbget:latest
     restart: unless-stopped
     environment:
-      - PUID=1001 # default user id, defined in .env
-      - PGID=1001 # default group id, defined in .env
+      - PUID=1000 # default user id, defined in .env
+      - PGID=1000 # default group id, defined in .env
       - TZ=europe/lisbon # timezone, defined in .env
     volumes:
       - ./downloads:/downloads # download folder
@@ -83,8 +86,8 @@ services:
     image: linuxserver/sonarr:latest
     restart: unless-stopped
     environment:
-      - PUID=1001 # default user id, defined in .env
-      - PGID=1001 # default group id, defined in .env
+      - PUID=1000 # default user id, defined in .env
+      - PGID=1000 # default group id, defined in .env
       - TZ=europe/lisbon # timezone, defined in .env
     volumes:
       #- /etc/localtime:/etc/localtime:ro
@@ -104,8 +107,8 @@ services:
     image: linuxserver/radarr:latest
     restart: unless-stopped
     environment:
-      - PUID=1001 # default user id, defined in .env
-      - PGID=1001 # default group id, defined in .env
+      - PUID=1000 # default user id, defined in .env
+      - PGID=1000 # default group id, defined in .env
       - TZ=europe/lisbon # timezone, defined in .env
     volumes:
       #- /etc/localtime:/etc/localtime:ro
@@ -152,8 +155,8 @@ services:
     image: linuxserver/bazarr
     restart: unless-stopped
     environment:
-      - PUID=1001 # default user id, defined in .env
-      - PGID=1001 # default group id, defined in .env
+      - PUID=1000 # default user id, defined in .env
+      - PGID=1000 # default group id, defined in .env
       - TZ=europe/lisbon # timezone, defined in .env
       #- UMASK_SET=022 #optional
     volumes:
