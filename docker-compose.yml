@@ -1,4 +1,10 @@
-version: "3.8"
+version: "3.6"
+networks:
+  internal:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 10.10.9.0/24
 services:
   vpn:
     image: dperson/openvpn-client:latest
@@ -9,16 +15,18 @@ services:
       - /dev/net:/dev/net:z # tun device
       - ./config/vpn:/vpn # OpenVPN configuration
     security_opt:
-      - label:disable
-    command: '-f "" -r 192.168.1.0/24' # enable firewall and route local network traffic
+       - label:disable
+    command: '-f "" -r 10.10.9.0/24' # enable firewall and route local network traffic
+    networks:
+      - internal
 
   deluge:
     image: linuxserver/deluge:latest
     restart: unless-stopped
-    network_mode: service:vpn # run on the vpn network
+    # network_mode: service:vpn # run on the vpn network
     environment:
-      - PUID=1000 # default user id, defined in .env
-      - PGID=1000 # default group id, defined in .env
+      - PUID=1001 # default user id, defined in .env
+      - PGID=1001 # default group id, defined in .env
       - TZ=europe/lisbon # timezone, defined in .env
     labels:
       - "traefik.enable=true"
@@ -29,13 +37,15 @@ services:
     volumes:
       - ./downloads:/downloads # downloads folder
       - ./config/deluge:/config # config files
+    networks:
+      - internal
 
   jackett:
     image: linuxserver/jackett:latest
     restart: unless-stopped
     environment:
-      - PUID=1000 # default user id, defined in .env
-      - PGID=1000 # default group id, defined in .env
+      - PUID=1001 # default user id, defined in .env
+      - PGID=1001 # default group id, defined in .env
       - TZ=europe/lisbon # timezone, defined in .env
     volumes:
       #- /etc/localtime:/etc/localtime:ro
@@ -47,13 +57,15 @@ services:
       - "traefik.http.routers.jackett.rule=Host(`jackett.localhost`)"
       - "traefik.http.routers.jackett.service=jackett"
       - "traefik.http.services.jackett.loadbalancer.server.port=9117"
+    networks:
+        - internal
 
   nzbget:
     image: linuxserver/nzbget:latest
     restart: unless-stopped
     environment:
-      - PUID=1000 # default user id, defined in .env
-      - PGID=1000 # default group id, defined in .env
+      - PUID=1001 # default user id, defined in .env
+      - PGID=1001 # default group id, defined in .env
       - TZ=europe/lisbon # timezone, defined in .env
     volumes:
       - ./downloads:/downloads # download folder
@@ -64,13 +76,15 @@ services:
       - "traefik.http.routers.nzbget.rule=Host(`nzbget.localhost`)"
       - "traefik.http.routers.nzbget.service=nzbget"
       - "traefik.http.services.nzbget.loadbalancer.server.port=6789"
+    networks:
+        - internal
 
   sonarr:
     image: linuxserver/sonarr:latest
     restart: unless-stopped
     environment:
-      - PUID=1000 # default user id, defined in .env
-      - PGID=1000 # default group id, defined in .env
+      - PUID=1001 # default user id, defined in .env
+      - PGID=1001 # default group id, defined in .env
       - TZ=europe/lisbon # timezone, defined in .env
     volumes:
       #- /etc/localtime:/etc/localtime:ro
@@ -83,13 +97,15 @@ services:
       - "traefik.http.routers.sonarr.rule=Host(`sonarr.localhost`)"
       - "traefik.http.routers.sonarr.service=sonarr"
       - "traefik.http.services.sonarr.loadbalancer.server.port=8989"
+    networks:
+        - internal
 
   radarr:
     image: linuxserver/radarr:latest
     restart: unless-stopped
     environment:
-      - PUID=1000 # default user id, defined in .env
-      - PGID=1000 # default group id, defined in .env
+      - PUID=1001 # default user id, defined in .env
+      - PGID=1001 # default group id, defined in .env
       - TZ=europe/lisbon # timezone, defined in .env
     volumes:
       #- /etc/localtime:/etc/localtime:ro
@@ -102,6 +118,8 @@ services:
       - "traefik.http.routers.radarr.rule=Host(`radarr.localhost`)"
       - "traefik.http.routers.radarr.service=radarr"
       - "traefik.http.services.radarr.loadbalancer.server.port=7878"
+    networks:
+        - internal
 
   plex:
     image: plexinc/pms-docker:latest
@@ -127,13 +145,15 @@ services:
       - "traefik.http.routers.plex.rule=Host(`plex.localhost`)"
       - "traefik.http.routers.plex.service=plex"
       - "traefik.http.services.plex.loadbalancer.server.port=32400"
+    networks:
+        - internal
 
   bazarr:
     image: linuxserver/bazarr
     restart: unless-stopped
     environment:
-      - PUID=1000 # default user id, defined in .env
-      - PGID=1000 # default group id, defined in .env
+      - PUID=1001 # default user id, defined in .env
+      - PGID=1001 # default group id, defined in .env
       - TZ=europe/lisbon # timezone, defined in .env
       #- UMASK_SET=022 #optional
     volumes:
@@ -148,6 +168,8 @@ services:
       - "traefik.http.services.bazarr.loadbalancer.server.port=6767"
     expose:
       - 6767
+    networks:
+        - internal
    
   
   traefik:
@@ -178,4 +200,6 @@ services:
     expose:
       - 8080
     restart: always
+    networks:
+      - internal
 

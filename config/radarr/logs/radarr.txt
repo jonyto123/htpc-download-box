@@ -695,3 +695,972 @@
 2020-6-20 21:40:55.1|Info|OwinHostController|  http://*:7878/
 2020-6-20 21:40:55.8|Info|NancyBootstrapper|Starting Web Server
 2020-6-20 21:41:00.3|Info|CommandExecutor|Starting 2 threads for tasks.
+2020-6-22 09:02:16.3|Info|Bootstrap|Starting Radarr - /app/radarr/bin/Radarr.exe - Version 0.2.0.1480
+2020-6-22 09:02:17.2|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2020-6-22 09:02:17.3|Info|Router|Application mode: Interactive
+2020-6-22 09:02:17.6|Info|MigrationLogger|*** Migrating data source=/config/nzbdrone.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2020-6-22 09:02:18.0|Info|MigrationLogger|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2020-6-22 09:02:18.0|Info|OwinHostController|Listening on the following URLs:
+2020-6-22 09:02:18.0|Info|OwinHostController|  http://*:7878/
+2020-6-22 09:02:18.1|Info|NancyBootstrapper|Starting Web Server
+2020-6-22 09:02:19.2|Info|CommandExecutor|Starting 2 threads for tasks.
+2020-6-22 09:02:49.4|Info|PreDBService|Starting PreDB Sync
+2020-6-22 09:02:49.5|Info|HousekeepingService|Running housecleaning tasks
+2020-6-22 09:02:49.6|Info|RssSyncService|Starting RSS Sync
+2020-6-22 09:02:49.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2020-6-22 09:02:49.6|Info|DownloadDecisionMaker|No results found
+2020-6-22 09:02:49.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2020-6-22 09:02:49.6|Info|NetImportSearchService|No lists are enabled for auto-import.
+2020-6-22 09:02:49.8|Info|Database|Vacuuming Log database
+2020-6-22 09:02:49.8|Info|Database|Log database compressed
+2020-6-22 09:02:49.8|Info|Database|Vacuuming Main database
+2020-6-22 09:02:49.9|Info|Database|Main database compressed
+2020-6-22 09:05:51.8|Info|Bootstrap|Starting Radarr - /app/radarr/bin/Radarr.exe - Version 0.2.0.1480
+2020-6-22 09:05:52.4|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2020-6-22 09:05:52.5|Info|Router|Application mode: Interactive
+2020-6-22 09:05:52.7|Info|MigrationLogger|*** Migrating data source=/config/nzbdrone.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2020-6-22 09:05:52.9|Info|MigrationLogger|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2020-6-22 09:05:52.9|Info|OwinHostController|Listening on the following URLs:
+2020-6-22 09:05:52.9|Info|OwinHostController|  http://*:7878/
+2020-6-22 09:05:53.1|Info|NancyBootstrapper|Starting Web Server
+2020-6-22 09:05:54.2|Info|CommandExecutor|Starting 2 threads for tasks.
+2020-6-22 09:09:28.6|Info|Bootstrap|Starting Radarr - /app/radarr/bin/Radarr.exe - Version 0.2.0.1480
+2020-6-22 09:09:29.3|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2020-6-22 09:09:29.4|Info|Router|Application mode: Interactive
+2020-6-22 09:09:29.5|Info|MigrationLogger|*** Migrating data source=/config/nzbdrone.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2020-6-22 09:09:29.7|Info|MigrationLogger|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2020-6-22 09:09:29.8|Info|OwinHostController|Listening on the following URLs:
+2020-6-22 09:09:29.8|Info|OwinHostController|  http://*:7878/
+2020-6-22 09:09:29.9|Info|NancyBootstrapper|Starting Web Server
+2020-6-22 09:09:30.8|Info|CommandExecutor|Starting 2 threads for tasks.
+2020-6-22 09:28:03.5|Info|Bootstrap|Starting Radarr - /app/radarr/bin/Radarr.exe - Version 0.2.0.1480
+2020-6-22 09:28:04.2|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2020-6-22 09:28:04.4|Info|Router|Application mode: Interactive
+2020-6-22 09:28:04.7|Info|MigrationLogger|*** Migrating data source=/config/nzbdrone.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2020-6-22 09:28:05.0|Info|MigrationLogger|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2020-6-22 09:28:05.0|Info|OwinHostController|Listening on the following URLs:
+2020-6-22 09:28:05.0|Info|OwinHostController|  http://*:7878/
+2020-6-22 09:28:05.2|Info|NancyBootstrapper|Starting Web Server
+2020-6-22 09:28:06.1|Info|CommandExecutor|Starting 2 threads for tasks.
+2020-6-22 09:54:51.3|Info|Bootstrap|Starting Radarr - /app/radarr/bin/Radarr.exe - Version 0.2.0.1480
+2020-6-22 09:54:51.9|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2020-6-22 09:54:52.0|Info|Router|Application mode: Interactive
+2020-6-22 09:54:52.2|Info|MigrationLogger|*** Migrating data source=/config/nzbdrone.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2020-6-22 09:54:52.3|Info|MigrationLogger|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2020-6-22 09:54:52.4|Info|OwinHostController|Listening on the following URLs:
+2020-6-22 09:54:52.4|Info|OwinHostController|  http://*:7878/
+2020-6-22 09:54:52.5|Info|NancyBootstrapper|Starting Web Server
+2020-6-22 09:54:53.4|Info|CommandExecutor|Starting 2 threads for tasks.
+2020-6-22 10:02:53.6|Info|PreDBService|Starting PreDB Sync
+2020-6-22 10:02:53.6|Info|RssSyncService|Starting RSS Sync
+2020-6-22 10:02:53.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2020-6-22 10:02:53.6|Info|NetImportSearchService|No lists are enabled for auto-import.
+2020-6-22 10:02:53.6|Info|DownloadDecisionMaker|No results found
+2020-6-22 10:02:53.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2020-6-22 10:12:04.1|Warn|StaticResourceMapper|File /app/radarr/bin/UI/Content/Images/favicon/manifest not found
+2020-6-22 10:12:39.8|Warn|Torznab|Unable to connect to indexer
+
+[v0.2.0.1480] System.Net.WebException: DNS Name Resolution Failure: 'jackett.localhost'
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x00169] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:101 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000cc] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:60 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Common.Http.HttpClient.Get (NzbDrone.Common.Http.HttpRequest request) [0x00007] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:267 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x00084] in C:\projects\radarr-usby1\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:63 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider+<>c__DisplayClass4_0.<GetCapabilities>b__0 () [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:36 
+  at NzbDrone.Common.Cache.Cached`1[T].Get (System.String key, System.Func`1[TResult] function, System.Nullable`1[T] lifeTime) [0x0006a] in C:\projects\radarr-usby1\src\NzbDrone.Common\Cache\Cached.cs:81 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x00020] in C:\projects\radarr-usby1\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:36 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize () [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:24 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator () [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:28 
+  at NzbDrone.Core.Indexers.HttpIndexerBase`1[TSettings].GetRequestChain (NzbDrone.Core.IndexerSearch.Definitions.SearchCriteriaBase searchCriteria) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:64 
+  at NzbDrone.Core.Indexers.HttpIndexerBase`1[TSettings].TestConnection () [0x00019] in C:\projects\radarr-usby1\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:297 
+
+2020-6-22 10:12:39.8|Warn|Torznab|Unable to connect to indexer: DNS Name Resolution Failure: 'jackett.localhost'
+
+[v0.2.0.1480] System.Net.WebException: DNS Name Resolution Failure: 'jackett.localhost'
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x00169] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:101 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000cc] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:60 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Common.Http.HttpClient.Get (NzbDrone.Common.Http.HttpRequest request) [0x00007] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:267 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x00084] in C:\projects\radarr-usby1\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:63 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider+<>c__DisplayClass4_0.<GetCapabilities>b__0 () [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:36 
+  at NzbDrone.Common.Cache.Cached`1[T].Get (System.String key, System.Func`1[TResult] function, System.Nullable`1[T] lifeTime) [0x0006a] in C:\projects\radarr-usby1\src\NzbDrone.Common\Cache\Cached.cs:81 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x00020] in C:\projects\radarr-usby1\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:36 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.TestCapabilities () [0x00006] in C:\projects\radarr-usby1\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:103 
+
+2020-6-22 10:12:39.8|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect to indexer, check the log for more details
+ -- Unable to connect to indexer, check the log for more details
+2020-6-22 10:12:46.3|Warn|Torznab|Unable to connect to indexer
+
+[v0.2.0.1480] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://jackett/api/v2.0/indexers/rarbg/results/torznab/api?t=caps&apikey=(removed) ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.RunWithTimeoutWorker[T] (System.Threading.Tasks.Task`1[TResult] workerTask, System.Int32 timeout, System.Action abort, System.Func`1[TResult] aborted, System.Threading.CancellationTokenSource cts) [0x000f8] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0011b] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:82 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001cf] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000cc] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:60 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Common.Http.HttpClient.Get (NzbDrone.Common.Http.HttpRequest request) [0x00007] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:267 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x00084] in C:\projects\radarr-usby1\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:63 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider+<>c__DisplayClass4_0.<GetCapabilities>b__0 () [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:36 
+  at NzbDrone.Common.Cache.Cached`1[T].Get (System.String key, System.Func`1[TResult] function, System.Nullable`1[T] lifeTime) [0x0006a] in C:\projects\radarr-usby1\src\NzbDrone.Common\Cache\Cached.cs:81 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x00020] in C:\projects\radarr-usby1\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:36 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize () [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:24 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator () [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:28 
+  at NzbDrone.Core.Indexers.HttpIndexerBase`1[TSettings].GetRequestChain (NzbDrone.Core.IndexerSearch.Definitions.SearchCriteriaBase searchCriteria) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:64 
+  at NzbDrone.Core.Indexers.HttpIndexerBase`1[TSettings].TestConnection () [0x00019] in C:\projects\radarr-usby1\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:297 
+
+2020-6-22 10:12:46.4|Warn|Torznab|Unable to connect to indexer: Error: ConnectFailure (Connection refused): 'http://jackett/api/v2.0/indexers/rarbg/results/torznab/api?t=caps&apikey=(removed) System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://jackett/api/v2.0/indexers/rarbg/results/torznab/api?t=caps&apikey=(removed) ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.RunWithTimeoutWorker[T] (System.Threading.Tasks.Task`1[TResult] workerTask, System.Int32 timeout, System.Action abort, System.Func`1[TResult] aborted, System.Threading.CancellationTokenSource cts) [0x000f8] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0011b] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:82 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001cf] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000cc] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:60 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Common.Http.HttpClient.Get (NzbDrone.Common.Http.HttpRequest request) [0x00007] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:267 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x00084] in C:\projects\radarr-usby1\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:63 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider+<>c__DisplayClass4_0.<GetCapabilities>b__0 () [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:36 
+  at NzbDrone.Common.Cache.Cached`1[T].Get (System.String key, System.Func`1[TResult] function, System.Nullable`1[T] lifeTime) [0x0006a] in C:\projects\radarr-usby1\src\NzbDrone.Common\Cache\Cached.cs:81 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x00020] in C:\projects\radarr-usby1\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:36 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.TestCapabilities () [0x00006] in C:\projects\radarr-usby1\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:103 
+
+2020-6-22 10:12:46.4|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect to indexer, check the log for more details
+ -- Unable to connect to indexer, check the log for more details
+2020-6-22 10:13:04.2|Warn|Torznab|Unable to connect to indexer
+
+[v0.2.0.1480] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://10.10.9.5/api/v2.0/indexers/rarbg/results/torznab/api?t=caps&apikey=(removed) ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.RunWithTimeoutWorker[T] (System.Threading.Tasks.Task`1[TResult] workerTask, System.Int32 timeout, System.Action abort, System.Func`1[TResult] aborted, System.Threading.CancellationTokenSource cts) [0x000f8] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0011b] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:82 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001cf] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000cc] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:60 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Common.Http.HttpClient.Get (NzbDrone.Common.Http.HttpRequest request) [0x00007] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:267 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x00084] in C:\projects\radarr-usby1\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:63 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider+<>c__DisplayClass4_0.<GetCapabilities>b__0 () [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:36 
+  at NzbDrone.Common.Cache.Cached`1[T].Get (System.String key, System.Func`1[TResult] function, System.Nullable`1[T] lifeTime) [0x0006a] in C:\projects\radarr-usby1\src\NzbDrone.Common\Cache\Cached.cs:81 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x00020] in C:\projects\radarr-usby1\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:36 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.get_PageSize () [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:24 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.GetRequestGenerator () [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:28 
+  at NzbDrone.Core.Indexers.HttpIndexerBase`1[TSettings].GetRequestChain (NzbDrone.Core.IndexerSearch.Definitions.SearchCriteriaBase searchCriteria) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:64 
+  at NzbDrone.Core.Indexers.HttpIndexerBase`1[TSettings].TestConnection () [0x00019] in C:\projects\radarr-usby1\src\NzbDrone.Core\Indexers\HttpIndexerBase.cs:297 
+
+2020-6-22 10:13:04.3|Warn|Torznab|Unable to connect to indexer: Error: ConnectFailure (Connection refused): 'http://10.10.9.5/api/v2.0/indexers/rarbg/results/torznab/api?t=caps&apikey=(removed) System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://10.10.9.5/api/v2.0/indexers/rarbg/results/torznab/api?t=caps&apikey=(removed) ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.RunWithTimeoutWorker[T] (System.Threading.Tasks.Task`1[TResult] workerTask, System.Int32 timeout, System.Action abort, System.Func`1[TResult] aborted, System.Threading.CancellationTokenSource cts) [0x000f8] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x0011b] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:82 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001cf] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000cc] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:60 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Common.Http.HttpClient.Get (NzbDrone.Common.Http.HttpRequest request) [0x00007] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:267 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x00084] in C:\projects\radarr-usby1\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:63 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider+<>c__DisplayClass4_0.<GetCapabilities>b__0 () [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:36 
+  at NzbDrone.Common.Cache.Cached`1[T].Get (System.String key, System.Func`1[TResult] function, System.Nullable`1[T] lifeTime) [0x0006a] in C:\projects\radarr-usby1\src\NzbDrone.Common\Cache\Cached.cs:81 
+  at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities (NzbDrone.Core.Indexers.Newznab.NewznabSettings indexerSettings) [0x00020] in C:\projects\radarr-usby1\src\NzbDrone.Core\Indexers\Newznab\NewznabCapabilitiesProvider.cs:36 
+  at NzbDrone.Core.Indexers.Torznab.Torznab.TestCapabilities () [0x00006] in C:\projects\radarr-usby1\src\NzbDrone.Core\Indexers\Torznab\Torznab.cs:103 
+
+2020-6-22 10:13:04.3|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect to indexer, check the log for more details
+ -- Unable to connect to indexer, check the log for more details
+2020-6-22 10:13:14.6|Warn|Torznab|rarbg does not support the following categories: 2000, 2010, 2020, 2035. You should probably remove them.
+2020-6-22 10:13:14.6|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- No results were returned from your indexer, please check your settings.
+2020-6-22 10:13:23.2|Warn|Torznab|rarbg does not support the following categories: 2000, 2010, 2020, 2035. You should probably remove them.
+2020-6-22 10:13:23.2|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- No results were returned from your indexer, please check your settings.
+2020-6-22 10:13:26.0|Warn|Torznab|rarbg does not support the following categories: 2000, 2010, 2020, 2035. You should probably remove them.
+2020-6-22 10:13:53.1|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- must be valid Host without http://
+2020-6-22 10:13:58.4|Error|Deluge|DNS Name Resolution Failure: 'deluge'
+
+[v0.2.0.1480] System.Net.WebException: DNS Name Resolution Failure: 'deluge'
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x00169] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:101 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000cc] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:60 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.AuthenticateClient (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.Boolean reauthenticate) [0x0005b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:284 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.BuildRequest (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x0006b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:197 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:204 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetVersion (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:53 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.TestConnection () [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:188 
+
+2020-6-22 10:13:58.8|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unknown exception: DNS Name Resolution Failure: 'deluge'
+2020-6-22 10:14:02.1|Error|Deluge|Error: ConnectFailure (Connection refused): 'http://vpn:8112/json'
+
+[v0.2.0.1480] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://vpn:8112/json' ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetRequestStream () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000ef] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:76 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001cf] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000cc] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:60 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.AuthenticateClient (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.Boolean reauthenticate) [0x0005b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:284 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.BuildRequest (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x0006b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:197 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:204 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetVersion (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:53 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.TestConnection () [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:188 
+
+2020-6-22 10:14:02.2|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect
+2020-6-22 10:14:11.8|Error|Deluge|Error: ConnectFailure (Connection refused): 'http://radarr:8112/json'
+
+[v0.2.0.1480] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://radarr:8112/json' ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetRequestStream () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000ef] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:76 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001cf] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000cc] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:60 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.AuthenticateClient (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.Boolean reauthenticate) [0x0005b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:284 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.BuildRequest (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x0006b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:197 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:204 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetVersion (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:53 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.TestConnection () [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:188 
+
+2020-6-22 10:14:11.9|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect
+2020-6-22 10:14:15.4|Error|Deluge|Error: ConnectFailure (Connection refused): 'http://sonarr:8112/json'
+
+[v0.2.0.1480] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://sonarr:8112/json' ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetRequestStream () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000ef] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:76 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001cf] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000cc] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:60 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.AuthenticateClient (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.Boolean reauthenticate) [0x0005b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:284 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.BuildRequest (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x0006b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:197 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:204 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetVersion (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:53 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.TestConnection () [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:188 
+
+2020-6-22 10:14:15.5|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect
+2020-6-22 10:14:40.2|Error|Deluge|Error: ConnectFailure (Connection refused): 'http://10.10.9.2:8112/json'
+
+[v0.2.0.1480] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://10.10.9.2:8112/json' ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetRequestStream () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000ef] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:76 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001cf] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000cc] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:60 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.AuthenticateClient (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.Boolean reauthenticate) [0x0005b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:284 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.BuildRequest (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x0006b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:197 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:204 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetVersion (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:53 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.TestConnection () [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:188 
+
+2020-6-22 10:14:40.4|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect
+2020-6-22 10:14:41.1|Error|Deluge|Error: ConnectFailure (Connection refused): 'http://10.10.9.2:8112/json'
+
+[v0.2.0.1480] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://10.10.9.2:8112/json' ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetRequestStream () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000ef] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:76 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001cf] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000cc] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:60 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.AuthenticateClient (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.Boolean reauthenticate) [0x0005b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:284 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.BuildRequest (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x0006b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:197 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:204 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetVersion (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:53 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.TestConnection () [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:188 
+
+2020-6-22 10:14:41.2|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect
+2020-6-22 10:14:41.7|Error|Deluge|Error: ConnectFailure (Connection refused): 'http://10.10.9.2:8112/json'
+
+[v0.2.0.1480] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://10.10.9.2:8112/json' ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetRequestStream () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000ef] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:76 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001cf] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000cc] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:60 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.AuthenticateClient (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.Boolean reauthenticate) [0x0005b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:284 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.BuildRequest (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x0006b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:197 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:204 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetVersion (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:53 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.TestConnection () [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:188 
+
+2020-6-22 10:14:41.7|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect
+2020-6-22 10:14:41.9|Error|Deluge|Error: ConnectFailure (Connection refused): 'http://10.10.9.2:8112/json'
+
+[v0.2.0.1480] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://10.10.9.2:8112/json' ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetRequestStream () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000ef] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:76 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001cf] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000cc] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:60 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.AuthenticateClient (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.Boolean reauthenticate) [0x0005b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:284 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.BuildRequest (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x0006b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:197 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:204 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetVersion (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:53 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.TestConnection () [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:188 
+
+2020-6-22 10:14:41.9|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect
+2020-6-22 10:14:42.0|Error|Deluge|Error: ConnectFailure (Connection refused): 'http://10.10.9.2:8112/json'
+
+[v0.2.0.1480] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://10.10.9.2:8112/json' ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetRequestStream () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000ef] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:76 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001cf] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000cc] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:60 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.AuthenticateClient (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.Boolean reauthenticate) [0x0005b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:284 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.BuildRequest (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x0006b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:197 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:204 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetVersion (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:53 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.TestConnection () [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:188 
+
+2020-6-22 10:14:42.0|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect
+2020-6-22 10:14:51.0|Error|Deluge|Error: ConnectFailure (Connection refused): 'http://10.10.9.2:8112/json'
+
+[v0.2.0.1480] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://10.10.9.2:8112/json' ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetRequestStream () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000ef] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:76 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001cf] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000cc] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:60 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.AuthenticateClient (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.Boolean reauthenticate) [0x0005b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:284 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.BuildRequest (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x0006b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:197 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:204 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetVersion (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:53 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.TestConnection () [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:188 
+
+2020-6-22 10:14:51.1|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect
+2020-6-22 10:14:52.7|Error|Deluge|Error: ConnectFailure (Connection refused): 'http://10.10.9.2:8112/json'
+
+[v0.2.0.1480] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://10.10.9.2:8112/json' ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetRequestStream () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000ef] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:76 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001cf] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000cc] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:60 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.AuthenticateClient (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.Boolean reauthenticate) [0x0005b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:284 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.BuildRequest (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x0006b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:197 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:204 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetVersion (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:53 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.TestConnection () [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:188 
+
+2020-6-22 10:14:52.7|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect
+2020-6-22 10:14:59.4|Error|Deluge|Error: ConnectFailure (Connection refused): 'http://10.10.9.2:8112/json'
+
+[v0.2.0.1480] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://10.10.9.2:8112/json' ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetRequestStream () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000ef] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:76 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001cf] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000cc] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:60 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.AuthenticateClient (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.Boolean reauthenticate) [0x0005b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:284 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.BuildRequest (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x0006b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:197 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:204 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetVersion (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:53 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.TestConnection () [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:188 
+
+2020-6-22 10:14:59.4|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect
+2020-6-22 10:15:04.0|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- must be valid Host without http://
+2020-6-22 10:15:06.9|Error|Deluge|Error: ConnectFailure (Connection refused): 'http://10.10.9.2:8112/json'
+
+[v0.2.0.1480] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://10.10.9.2:8112/json' ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetRequestStream () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000ef] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:76 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001cf] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000cc] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:60 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.AuthenticateClient (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.Boolean reauthenticate) [0x0005b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:284 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.BuildRequest (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x0006b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:197 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:204 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetVersion (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:53 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.TestConnection () [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:188 
+
+2020-6-22 10:15:06.9|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect
+2020-6-22 10:15:07.1|Error|Deluge|Error: ConnectFailure (Connection refused): 'http://10.10.9.2:8112/json'
+
+[v0.2.0.1480] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://10.10.9.2:8112/json' ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetRequestStream () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000ef] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:76 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001cf] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000cc] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:60 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.AuthenticateClient (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.Boolean reauthenticate) [0x0005b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:284 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.BuildRequest (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x0006b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:197 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:204 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetVersion (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:53 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.TestConnection () [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:188 
+
+2020-6-22 10:15:07.1|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect
+2020-6-22 10:15:07.3|Error|Deluge|Error: ConnectFailure (Connection refused): 'http://10.10.9.2:8112/json'
+
+[v0.2.0.1480] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://10.10.9.2:8112/json' ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetRequestStream () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000ef] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:76 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001cf] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000cc] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:60 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.AuthenticateClient (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.Boolean reauthenticate) [0x0005b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:284 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.BuildRequest (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x0006b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:197 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:204 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetVersion (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:53 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.TestConnection () [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:188 
+
+2020-6-22 10:15:07.3|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect
+2020-6-22 10:15:07.4|Error|Deluge|Error: ConnectFailure (Connection refused): 'http://10.10.9.2:8112/json'
+
+[v0.2.0.1480] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://10.10.9.2:8112/json' ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetRequestStream () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000ef] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:76 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001cf] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000cc] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:60 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.AuthenticateClient (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.Boolean reauthenticate) [0x0005b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:284 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.BuildRequest (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x0006b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:197 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:204 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetVersion (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:53 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.TestConnection () [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:188 
+
+2020-6-22 10:15:07.4|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect
+2020-6-22 10:15:07.6|Error|Deluge|Error: ConnectFailure (Connection refused): 'http://10.10.9.2:8112/json'
+
+[v0.2.0.1480] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://10.10.9.2:8112/json' ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetRequestStream () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000ef] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:76 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001cf] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000cc] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:60 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.AuthenticateClient (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.Boolean reauthenticate) [0x0005b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:284 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.BuildRequest (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x0006b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:197 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:204 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetVersion (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:53 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.TestConnection () [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:188 
+
+2020-6-22 10:15:07.6|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect
+2020-6-22 10:15:07.8|Error|Deluge|Error: ConnectFailure (Connection refused): 'http://10.10.9.2:8112/json'
+
+[v0.2.0.1480] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://10.10.9.2:8112/json' ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetRequestStream () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000ef] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:76 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001cf] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000cc] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:60 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.AuthenticateClient (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.Boolean reauthenticate) [0x0005b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:284 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.BuildRequest (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x0006b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:197 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:204 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetVersion (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:53 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.TestConnection () [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:188 
+
+2020-6-22 10:15:07.8|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect
+2020-6-22 10:15:09.5|Error|Deluge|Error: ConnectFailure (Connection refused): 'http://10.10.9.2:8112/json'
+
+[v0.2.0.1480] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://10.10.9.2:8112/json' ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetRequestStream () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000ef] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:76 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001cf] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000cc] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:60 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.AuthenticateClient (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.Boolean reauthenticate) [0x0005b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:284 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.BuildRequest (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x0006b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:197 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:204 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetVersion (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:53 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.TestConnection () [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:188 
+
+2020-6-22 10:15:09.6|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect
+2020-6-22 10:15:09.7|Error|Deluge|Error: ConnectFailure (Connection refused): 'http://10.10.9.2:8112/json'
+
+[v0.2.0.1480] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://10.10.9.2:8112/json' ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetRequestStream () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000ef] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:76 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001cf] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000cc] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:60 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.AuthenticateClient (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.Boolean reauthenticate) [0x0005b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:284 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.BuildRequest (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x0006b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:197 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:204 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetVersion (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:53 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.TestConnection () [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:188 
+
+2020-6-22 10:15:09.7|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect
+2020-6-22 10:15:09.9|Error|Deluge|Error: ConnectFailure (Connection refused): 'http://10.10.9.2:8112/json'
+
+[v0.2.0.1480] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://10.10.9.2:8112/json' ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetRequestStream () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000ef] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:76 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001cf] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000cc] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:60 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.AuthenticateClient (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.Boolean reauthenticate) [0x0005b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:284 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.BuildRequest (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x0006b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:197 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:204 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetVersion (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:53 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.TestConnection () [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:188 
+
+2020-6-22 10:15:09.9|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect
+2020-6-22 10:15:10.0|Error|Deluge|Error: ConnectFailure (Connection refused): 'http://10.10.9.2:8112/json'
+
+[v0.2.0.1480] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://10.10.9.2:8112/json' ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetRequestStream () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000ef] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:76 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001cf] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000cc] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:60 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.AuthenticateClient (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.Boolean reauthenticate) [0x0005b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:284 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.BuildRequest (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x0006b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:197 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:204 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetVersion (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:53 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.TestConnection () [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:188 
+
+2020-6-22 10:15:10.0|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect
+2020-6-22 10:15:10.2|Error|Deluge|Error: ConnectFailure (Connection refused): 'http://10.10.9.2:8112/json'
+
+[v0.2.0.1480] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://10.10.9.2:8112/json' ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetRequestStream () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000ef] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:76 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001cf] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000cc] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:60 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.AuthenticateClient (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.Boolean reauthenticate) [0x0005b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:284 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.BuildRequest (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x0006b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:197 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:204 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetVersion (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:53 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.TestConnection () [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:188 
+
+2020-6-22 10:15:10.2|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect
+2020-6-22 10:15:10.4|Error|Deluge|Error: ConnectFailure (Connection refused): 'http://10.10.9.2:8112/json'
+
+[v0.2.0.1480] System.Net.WebException: Error: ConnectFailure (Connection refused): 'http://10.10.9.2:8112/json' ---> System.Net.WebException: Error: ConnectFailure (Connection refused) ---> System.Net.Sockets.SocketException: Connection refused
+  at System.Net.Sockets.SocketAsyncResult.CheckIfThrowDelayedException () [0x00014] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.Socket.EndConnect (System.IAsyncResult asyncResult) [0x0002c] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.Sockets.SocketTaskExtensions+<>c.<ConnectAsync>b__2_1 (System.IAsyncResult asyncResult) [0x00006] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Threading.Tasks.TaskFactory`1[TResult].FromAsyncCoreLogic (System.IAsyncResult iar, System.Func`2[T,TResult] endFunction, System.Action`1[T] endAction, System.Threading.Tasks.Task`1[TResult] promise, System.Boolean requiresSynchronization) [0x00019] in <254335e8c4aa42e3923a8ba0d5ce8650>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x0019b] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00217] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at System.Net.HttpWebRequest.GetRequestStream () [0x00016] in <91935ad653254a93b9d73a9f8f2f7a2d>:0 
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000ef] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:76 
+   --- End of inner exception stack trace ---
+  at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x001cf] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\ManagedHttpDispatcher.cs:113 
+  at NzbDrone.Common.Http.Dispatchers.FallbackHttpDispatcher.GetResponse (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookies) [0x000cc] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\Dispatchers\FallbackHttpDispatcher.cs:60 
+  at NzbDrone.Common.Http.HttpClient.ExecuteRequest (NzbDrone.Common.Http.HttpRequest request, System.Net.CookieContainer cookieContainer) [0x0007e] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:121 
+  at NzbDrone.Common.Http.HttpClient.Execute (NzbDrone.Common.Http.HttpRequest request) [0x00008] in C:\projects\radarr-usby1\src\NzbDrone.Common\Http\HttpClient.cs:57 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.AuthenticateClient (NzbDrone.Common.Http.JsonRpcRequestBuilder requestBuilder, NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.Boolean reauthenticate) [0x0005b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:284 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.BuildRequest (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x0006b] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:197 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.ProcessRequest[TResult] (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings, System.String method, System.Object[] arguments) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:204 
+  at NzbDrone.Core.Download.Clients.Deluge.DelugeProxy.GetVersion (NzbDrone.Core.Download.Clients.Deluge.DelugeSettings settings) [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\DelugeProxy.cs:53 
+  at NzbDrone.Core.Download.Clients.Deluge.Deluge.TestConnection () [0x00000] in C:\projects\radarr-usby1\src\NzbDrone.Core\Download\Clients\Deluge\Deluge.cs:188 
+
+2020-6-22 10:15:10.4|Warn|NzbDroneErrorPipeline|Invalid request Validation failed: 
+ -- Unable to connect
+2020-6-22 11:02:55.0|Info|PreDBService|Starting PreDB Sync
+2020-6-22 11:02:55.1|Info|RssSyncService|Starting RSS Sync
+2020-6-22 11:02:55.3|Info|NetImportSearchService|No lists are enabled for auto-import.
+2020-6-22 11:02:58.5|Info|DownloadDecisionMaker|Processing 100 releases
+2020-6-22 11:03:00.9|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+2020-6-22 11:42:40.2|Info|Bootstrap|Starting Radarr - /app/radarr/bin/Radarr.exe - Version 0.2.0.1480
+2020-6-22 11:42:40.9|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2020-6-22 11:42:41.0|Info|Router|Application mode: Interactive
+2020-6-22 11:42:41.1|Info|MigrationLogger|*** Migrating data source=/config/nzbdrone.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2020-6-22 11:42:41.3|Info|MigrationLogger|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2020-6-22 11:42:41.4|Info|OwinHostController|Listening on the following URLs:
+2020-6-22 11:42:41.4|Info|OwinHostController|  http://*:7878/
+2020-6-22 11:42:41.5|Info|NancyBootstrapper|Starting Web Server
+2020-6-22 11:42:42.4|Info|CommandExecutor|Starting 2 threads for tasks.
+2020-6-22 12:03:12.9|Info|PreDBService|Starting PreDB Sync
+2020-6-22 12:03:13.0|Info|RssSyncService|Starting RSS Sync
+2020-6-22 12:03:13.1|Info|NetImportSearchService|No lists are enabled for auto-import.
+2020-6-22 12:03:16.4|Info|DownloadDecisionMaker|Processing 100 releases
+2020-6-22 12:03:18.9|Info|RssSyncService|RSS Sync Completed. Reports found: 100, Reports grabbed: 0
+2020-6-22 12:04:22.4|Info|Bootstrap|Starting Radarr - /app/radarr/bin/Radarr.exe - Version 0.2.0.1480
+2020-6-22 12:04:23.1|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2020-6-22 12:04:23.2|Info|Router|Application mode: Interactive
+2020-6-22 12:04:23.4|Info|MigrationLogger|*** Migrating data source=/config/nzbdrone.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2020-6-22 12:04:23.7|Info|MigrationLogger|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3 ***
+2020-6-22 12:04:23.8|Info|OwinHostController|Listening on the following URLs:
+2020-6-22 12:04:23.8|Info|OwinHostController|  http://*:7878/
+2020-6-22 12:04:23.9|Info|NancyBootstrapper|Starting Web Server
+2020-6-22 12:04:25.0|Info|CommandExecutor|Starting 2 threads for tasks.

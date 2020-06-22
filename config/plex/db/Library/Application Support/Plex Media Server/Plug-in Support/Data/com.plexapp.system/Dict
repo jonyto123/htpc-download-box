@@ -7,12 +7,8 @@ S'InstallIdentifier'
 p4
 S'com.plexapp.system.services'
 p5
-sS'InstallAction'
-p6
-S'Plug in installed (revision 62fcf1f)'
-p7
 sS'InstallDate'
-p8
+p6
 cdatetime
 datetime
 p9
