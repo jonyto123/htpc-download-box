@@ -34,7 +34,7 @@ services:
     labels:
       - "traefik.enable=true"
       - "traefik.http.routers.deluge.entrypoints=web"
-      - "traefik.http.routers.deluge.rule=Host(`deluge.localhost`)"
+      - "traefik.http.routers.deluge.rule=Host(`deluge.192.168.1.115.xip.io`)"
       - "traefik.http.routers.deluge.service=deluge"
       - "traefik.http.services.deluge.loadbalancer.server.port=8112"    
     volumes:
@@ -54,10 +54,13 @@ services:
       #- /etc/localtime:/etc/localtime:ro
       - ./downloads/torrent-blackhole:/downloads # place where to put .torrent files for manual download
       - ./config/jackett:/config # config files
+    dns:
+      - 8.8.8.8
+      - 1.1.1.1
     labels:
       - "traefik.enable=true"
       - "traefik.http.routers.jackett.entrypoints=web"
-      - "traefik.http.routers.jackett.rule=Host(`jackett.localhost`)"
+      - "traefik.http.routers.jackett.rule=Host(`jackett.192.168.1.115.xip.io`)"
       - "traefik.http.routers.jackett.service=jackett"
       - "traefik.http.services.jackett.loadbalancer.server.port=9117"
     networks:
@@ -76,7 +79,7 @@ services:
     labels:
       - "traefik.enable=true"
       - "traefik.http.routers.nzbget.entrypoints=web"
-      - "traefik.http.routers.nzbget.rule=Host(`nzbget.localhost`)"
+      - "traefik.http.routers.nzbget.rule=Host(`nzbget.192.168.1.115.xip.io`)"
       - "traefik.http.routers.nzbget.service=nzbget"
       - "traefik.http.services.nzbget.loadbalancer.server.port=6789"
     networks:
@@ -97,7 +100,7 @@ services:
     labels:
       - "traefik.enable=true"
       - "traefik.http.routers.sonarr.entrypoints=web"
-      - "traefik.http.routers.sonarr.rule=Host(`sonarr.localhost`)"
+      - "traefik.http.routers.sonarr.rule=Host(`sonarr.192.168.1.115.xip.io`)"
       - "traefik.http.routers.sonarr.service=sonarr"
       - "traefik.http.services.sonarr.loadbalancer.server.port=8989"
     networks:
@@ -118,38 +121,103 @@ services:
     labels:
       - "traefik.enable=true"
       - "traefik.http.routers.radarr.entrypoints=web"
-      - "traefik.http.routers.radarr.rule=Host(`radarr.localhost`)"
+      - "traefik.http.routers.radarr.rule=Host(`radarr.192.168.1.115.xip.io`)"
       - "traefik.http.routers.radarr.service=radarr"
       - "traefik.http.services.radarr.loadbalancer.server.port=7878"
     networks:
         - internal
-
-  plex:
-    image: plexinc/pms-docker:latest
-    restart: unless-stopped
+  organizr:
+    image: organizrtools/organizr-v2:armhf
+   # container_name: organizr
     environment:
-      - TZ=europe/lisbon # timezone, defined in .env
+      - PUID=1000
+      - PGID=1000
+      - TZ=europe/lisbon
     volumes:
-      - ./config/plex/db:/config # plex database
-      - ./config/plex/transcode:/transcode # temp transcoded files
-      - ./complete:/data # media library
-    ports:
-      - '32400:32400'
-      - '3005:3005'
-      - '8324:8324'
-      - '1900:1900/udp'
-      - '32410:32410/udp'
-      - '32412:32412/udp'
-      - '32413:32413/udp'
-      - '32414:32414/udp'
+      - ./config/organizr:/config
     labels:
       - "traefik.enable=true"
-      - "traefik.http.routers.plex.entrypoints=web"
-      - "traefik.http.routers.plex.rule=Host(`plex.localhost`)"
-      - "traefik.http.routers.plex.service=plex"
-      - "traefik.http.services.plex.loadbalancer.server.port=32400"
+      - "traefik.http.routers.organizr.entrypoints=web"
+      - "traefik.http.routers.organizr.rule=Host(`organizr.192.168.1.115.xip.io`)"
+      - "traefik.http.routers.organizr.service=organizr"
+      - "traefik.http.services.organizr.loadbalancer.server.port=80"
+    restart: unless-stopped
     networks:
-        - internal
+      - internal
+    
+  ombi:
+    image: linuxserver/ombi
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Europe/London
+    volumes:
+      - ./config/ombi:/config
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.ombi.entrypoints=web"
+      - "traefik.http.routers.ombi.rule=Host(`ombi.192.168.1.115.xip.io`)"
+      - "traefik.http.routers.ombi.service=ombi"
+      - "traefik.http.services.ombi.loadbalancer.server.port=3579"
+    restart: unless-stopped
+    networks:
+      - internal
+  # plex:
+  #   image: linuxserver/plex:latest
+  #   restart: unless-stopped
+  #   environment:
+  #     - TZ=europe/lisbon # timezone, defined in .env
+  #     - PLEX_CLAIM=claim-zk1w1eFGs7Vj3QLnEBrT
+  #   volumes:
+  #     - ./config/plex/db:/config # plex database
+  #     - ./config/plex/transcode:/transcode # temp transcoded files
+  #     - ./complete:/data # media library
+  #   # ports:
+  #   #   - '32400:32400'
+  #   #   - '3005:3005'
+  #   #   - '8324:8324'
+  #   #   - '1900:1900/udp'
+  #   #   - '32410:32410/udp'
+  #   #   - '32412:32412/udp'
+  #   #   - '32413:32413/udp'
+  #   #   - '32414:32414/udp'
+  #   labels:
+  #     - "traefik.enable=true"
+  #     - "traefik.http.routers.plex.entrypoints=web"
+  #     - "traefik.http.routers.plex.rule=Host(`plex.192.168.1.115.xip.io`)"
+  #     - "traefik.http.routers.plex.service=plex"
+  #     - "traefik.http.services.plex.loadbalancer.server.port=32400"
+  #   networks:
+  #       - internal
+
+  jellyfin:
+    image: linuxserver/jellyfin
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Europe/London
+    volumes:
+      - ./config/jellyfin/db:/config
+      - ./complete:/data
+      - ./config/jellyfin/transcode:/cache
+      - /opt/vc/lib:/opt/vc/lib #optional
+    devices:
+      - /dev/vcsm-cma:/dev/vcsm-cma #optional
+      - /dev/vchiq:/dev/vchiq #optional
+      - /dev/video10:/dev/video10 #optional
+      - /dev/video11:/dev/video11 #optional
+      - /dev/video12:/dev/video12 #optional
+    ports:
+        - 8096:8096
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.jellyfin.entrypoints=web"
+      - "traefik.http.routers.jellyfin.rule=Host(`jellyfin.192.168.1.115.xip.io`)"
+      - "traefik.http.routers.jellyfin.service=jellyfin"
+      - "traefik.http.services.jellyfin.loadbalancer.server.port=8096"
+    restart: unless-stopped
+    networks:
+      - internal
 
   bazarr:
     image: linuxserver/bazarr
@@ -166,7 +234,7 @@ services:
     labels:
       - "traefik.enable=true"
       - "traefik.http.routers.bazarr.entrypoints=web"
-      - "traefik.http.routers.bazarr.rule=Host(`bazarr.localhost`)"
+      - "traefik.http.routers.bazarr.rule=Host(`bazarr.192.168.1.115.xip.io`)"
       - "traefik.http.routers.bazarr.service=bazarr"
       - "traefik.http.services.bazarr.loadbalancer.server.port=6767"
     expose:
@@ -174,7 +242,6 @@ services:
     networks:
         - internal
    
-  
   traefik:
     image: traefik:v2.2.1
     command: 
@@ -191,7 +258,7 @@ services:
     labels:
       - "traefik.enable=true"
       - "traefik.http.routers.traefik.entrypoints=web"
-      - "traefik.http.routers.traefik.rule=Host(`traefik.localhost`)"
+      - "traefik.http.routers.traefik.rule=Host(`traefik.192.168.1.115.xip.io`)"
       - "traefik.http.routers.traefik.service=traefik"
       - "traefik.http.services.traefik.loadbalancer.server.port=8080"
     # networks:
